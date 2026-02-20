@@ -1,9 +1,0 @@
-{
-  "everyone": {
-    "overrides": {
-      "commands": {
-        "role": "deny"
-      }
-    }
-  }
-}
