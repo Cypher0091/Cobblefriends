@@ -1,8 +1,0 @@
-﻿name = "defaultoptions-fabric-1.21.1-21.1.2"
-filename = "defaultoptions-fabric-1.21.1-21.1.2.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/WEg59z5b/versions/hI8pZoVS/defaultoptions-fabric-1.21.1-21.1.2.jar"
-hash-format = "sha512"
-hash = "c8f35f125e54abdd9c3872648e96db49f7071a6d91388e05aa6ab45f730c321c3520b49b9148d495e34af3dc98e0338655cad07bba622fcf17c21cccf47c31fe"

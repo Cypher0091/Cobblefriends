@@ -1,8 +1,0 @@
-﻿name = "crd_broadcasts-fabric-1.4.0+1.21.1"
-filename = "crd_broadcasts-fabric-1.4.0+1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/TmNAjS6y/versions/mubCmCBo/crd_broadcasts-fabric-1.4.0%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "554db3616fa7dbf38fc18aff38b19b6a2be46ef75db5fc8447d33b534955ce2139d3c3ac8d0464a9c749e9cf97f21debac5b982aeff00b9e969816a29c39af7e"

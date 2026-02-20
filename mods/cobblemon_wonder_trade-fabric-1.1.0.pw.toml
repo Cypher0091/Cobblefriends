@@ -1,8 +1,0 @@
-﻿name = "cobblemon_wonder_trade-fabric-1.1.0"
-filename = "cobblemon_wonder_trade-fabric-1.1.0.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/bfndVmco/versions/OtJYQjHD/cobblemon_wonder_trade-fabric-1.1.0.jar"
-hash-format = "sha512"
-hash = "89b49c71e2f43a9631638314ff12f9274c10619f0d9c4082b04c422c4ddb6e3c992cbf68d55b49855cf4ed0d70d433db80f60d66b2e7a78025d8b35dfcf8c5d8"

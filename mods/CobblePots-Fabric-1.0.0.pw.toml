@@ -1,8 +1,0 @@
-﻿name = "CobblePots-Fabric-1.0.0"
-filename = "CobblePots-Fabric-1.0.0.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/FVLJuAnc/versions/kwJtf9j5/CobblePots-Fabric-1.0.0.jar"
-hash-format = "sha512"
-hash = "8a4cb265b5172bb5108ed686d1cd83388391b9fda87ffbf11301bec55fc74e2b77caa42035788ce13e7798e32bd8c2e8a115725cc92ddb8f64dc23c29d4830f2"

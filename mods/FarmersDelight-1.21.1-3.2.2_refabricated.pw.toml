@@ -1,8 +1,0 @@
-﻿name = "FarmersDelight-1.21.1-3.2.2+refabricated"
-filename = "FarmersDelight-1.21.1-3.2.2+refabricated.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/7vxePowz/versions/vj4n2BSl/FarmersDelight-1.21.1-3.2.2%2Brefabricated.jar"
-hash-format = "sha512"
-hash = "5481e22235f6ace7b369eb7bcbeb5d0b31b32030cd5a8e33113f2eba016d22de864ed671e42789cc42071e045336a473df90fdbf4c417575405f8f7bc280d4cc"

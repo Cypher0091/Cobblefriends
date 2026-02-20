@@ -1,8 +1,0 @@
-﻿name = "daycareplus-1.3.3+1.21.1"
-filename = "daycareplus-1.3.3+1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/sw1l2uBq/versions/4WrfrBoU/daycareplus-1.3.3%2B1.21.1.jar"
-hash-format = "sha512"
-hash = "b121085372686ce0a1b5319345756e5c88a685bb425b807e4ac35441eea29c51cd2b574a355d112be4b0195fffeb5045aeea5f7ec328db5e68590cdd978a1546"

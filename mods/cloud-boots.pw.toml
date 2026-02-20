@@ -1,0 +1,13 @@
+name = "Cloud Boots"
+filename = "cloud-boots-fabric-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hkztOJro/versions/kiGW1zIa/cloud-boots-fabric-3.0.0.jar"
+hash-format = "sha512"
+hash = "10a9632697f617a3c2747ff4769681eef0b050aa3e2598f32283084b5cb22f128b0cc847ae2e8c33f9ca375d4668c95aa0d61f90c79190573e133eb11b40a412"
+
+[update]
+[update.modrinth]
+mod-id = "hkztOJro"
+version = "kiGW1zIa"
