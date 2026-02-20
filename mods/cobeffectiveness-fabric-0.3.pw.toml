@@ -1,0 +1,8 @@
+﻿name = "cobeffectiveness-fabric-0.3"
+filename = "cobeffectiveness-fabric-0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mCT9ubLg/versions/F4L9ZN4n/cobeffectiveness-fabric-0.3.jar"
+hash-format = "sha512"
+hash = "91961d2b10a8af0ba427e62c1b517c4808119d33d17ae27e87749d0020badf7f76e2eb5f6a0925fbae266a1ac6262988c2ef0cc05e1e1cca2e77181b72f7ccdf"

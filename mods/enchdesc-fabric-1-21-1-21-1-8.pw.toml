@@ -1,8 +1,0 @@
-name = "enchdesc-fabric-1-21-1-21-1-8"
-filename = "enchdesc-fabric-1.21.1-21.1.8.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/enchdesc-fabric-1.21.1-21.1.8.jar"
-hash-format = "sha256"
-hash = "acf2e24da1f4e6f0c7c3ce8ad6e2d466a317099b8af5acbf2d4d852873f0b125"

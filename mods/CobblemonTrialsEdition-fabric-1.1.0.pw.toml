@@ -1,0 +1,8 @@
+﻿name = "CobblemonTrialsEdition-fabric-1.1.0"
+filename = "CobblemonTrialsEdition-fabric-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oH4pigcS/versions/4H5Rf0u5/CobblemonTrialsEdition-fabric-1.1.0.jar"
+hash-format = "sha512"
+hash = "8e2e4a176f21f3544489d50960a0ee6a767e4464fadc226f076c3a01bf67331f106fb468ac376d9b0af96035bf13d0bf945cff7765f249e5ab2319376ad667a7"

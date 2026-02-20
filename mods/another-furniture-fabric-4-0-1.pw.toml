@@ -1,8 +1,0 @@
-name = "another-furniture-fabric-4-0-1"
-filename = "another_furniture-fabric-4.0.1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/another_furniture-fabric-4.0.1.jar"
-hash-format = "sha256"
-hash = "adfb1e3b88afe536d3cedac2d585192561c562de4e0a3295afba947567a0763b"

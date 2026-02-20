@@ -1,8 +1,0 @@
-name = "autorun-1-21-x-0-6-0"
-filename = "autorun-1.21.X-0.6.0.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/autorun-1.21.X-0.6.0.jar"
-hash-format = "sha256"
-hash = "e5141db08e7befff5d53866b871be1587b92649bf5a699adfdc4015e7a8e460f"

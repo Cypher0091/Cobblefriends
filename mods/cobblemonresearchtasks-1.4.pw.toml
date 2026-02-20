@@ -1,0 +1,8 @@
+﻿name = "cobblemonresearchtasks-1.4"
+filename = "cobblemonresearchtasks-1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zoP5qy7S/versions/Ouq78J5M/cobblemonresearchtasks-1.4.jar"
+hash-format = "sha512"
+hash = "8aa6167b168f49136dc3bd1b972bbee0f4557bffc589c713f5738dc65d47f2af89a1d919cfeb9e607e6faf7960c0db4fa77a221f55c7e7b57a77b1310be8280d"

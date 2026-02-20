@@ -1,0 +1,8 @@
+﻿name = "timcore-fabric-1.7.1-1.27.0"
+filename = "timcore-fabric-1.7.1-1.27.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lVP9aUaY/versions/wzwxkniO/timcore-fabric-1.7.1-1.27.0.jar"
+hash-format = "sha512"
+hash = "2501b5a1f9b108cafe7e48d69f23b9678376bdca914278ba9dc2d2c04d3386c22537d9cbd21da15e3db63846d71ab1496bb3f5874b935a8f450e5b94060e01f6"

@@ -1,8 +1,0 @@
-name = "lootr-fabric-1-21-1-10-35-91"
-filename = "lootr-fabric-1.21-1.10.35.91.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/lootr-fabric-1.21-1.10.35.91.jar"
-hash-format = "sha256"
-hash = "f7f87bc006bbc232fafee451085083f7470d973dc1efbce3ec1f317901356c0e"

@@ -1,8 +1,0 @@
-name = "octolib-fabric-0-5-0-1"
-filename = "OctoLib-FABRIC-0.5.0.1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/OctoLib-FABRIC-0.5.0.1.jar"
-hash-format = "sha256"
-hash = "82568837432b7a622715d58720f2a892bffd000a43b6ccf440073f445b9b38a7"

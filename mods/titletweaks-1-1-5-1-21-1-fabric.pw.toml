@@ -1,8 +1,0 @@
-name = "titletweaks-1-1-5-1-21-1-fabric"
-filename = "titletweaks-1.1.5+1.21.1-fabric.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/titletweaks-1.1.5%2B1.21.1-fabric.jar"
-hash-format = "sha256"
-hash = "7a9dc2366a0a32c420e1e49be1d9d9e2576c6176be723ff57d779e67ef4283ac"

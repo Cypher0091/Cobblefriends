@@ -1,8 +1,0 @@
-name = "oh-the-trees-youll-grow-fabric-1-21-1-5-0-14"
-filename = "Oh-The-Trees-Youll-Grow-fabric-1.21.1-5.0.14.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/Oh-The-Trees-Youll-Grow-fabric-1.21.1-5.0.14.jar"
-hash-format = "sha256"
-hash = "481a1ce75d5f3dc45639aee443bec6073e9816af4e9d305e4dd303bf1a3e485e"

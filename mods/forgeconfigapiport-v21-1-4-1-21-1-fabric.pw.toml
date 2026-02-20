@@ -1,8 +1,0 @@
-name = "forgeconfigapiport-v21-1-4-1-21-1-fabric"
-filename = "ForgeConfigAPIPort-v21.1.4-1.21.1-Fabric.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/ForgeConfigAPIPort-v21.1.4-1.21.1-Fabric.jar"
-hash-format = "sha256"
-hash = "2be62a8c237c2b3fbd9dff4177aac72b31049fe25fce8f3358f2ed2b1c245c8f"

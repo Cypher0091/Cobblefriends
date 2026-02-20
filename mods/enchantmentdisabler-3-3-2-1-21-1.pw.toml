@@ -1,8 +1,0 @@
-name = "enchantmentdisabler-3-3-2-1-21-1"
-filename = "enchantmentdisabler-3.3.2+1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/enchantmentdisabler-3.3.2%2B1.21.1.jar"
-hash-format = "sha256"
-hash = "893686c8b6753dcf694191fac081cc72c5d089a83a7d3f3e13a79246e2c7da77"

@@ -1,8 +1,0 @@
-name = "cobblemonresearchtasks-1-4"
-filename = "cobblemonresearchtasks-1.4.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/cobblemonresearchtasks-1.4.jar"
-hash-format = "sha256"
-hash = "f8ea983e0b4e970153878570d3790ea1c154c30a3aa8883deeecc7a03833b2bc"

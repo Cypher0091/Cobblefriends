@@ -1,8 +1,0 @@
-name = "moogstemplesreimagined-1-21-1-0-3"
-filename = "MoogsTemplesReimagined-1.21-1.0.3.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/MoogsTemplesReimagined-1.21-1.0.3.jar"
-hash-format = "sha256"
-hash = "f2c2cabc87a48f2c517de9b431c3cbf6597d0c3b65cbb11f463050d7345eae4b"

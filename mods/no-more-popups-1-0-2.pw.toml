@@ -1,8 +1,0 @@
-name = "no-more-popups-1-0-2"
-filename = "no-more-popups-1.0.2.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/no-more-popups-1.0.2.jar"
-hash-format = "sha256"
-hash = "23e13cff47eb7755ff25d6aadc989ccc49c629a276a14dfd45ef137c347c2f49"

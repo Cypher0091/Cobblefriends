@@ -1,8 +1,0 @@
-name = "handcrafted-fabric-1-21-1-4-0-3"
-filename = "handcrafted-fabric-1.21.1-4.0.3.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/handcrafted-fabric-1.21.1-4.0.3.jar"
-hash-format = "sha256"
-hash = "9609c27e2eeaed4c633ade2d68ad980cfbed0442a10239846a67e9c62bc1b230"

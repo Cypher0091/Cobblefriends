@@ -1,8 +1,0 @@
-name = "simpletms-fabric-2-3-2"
-filename = "SimpleTMs-fabric-2.3.2.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/SimpleTMs-fabric-2.3.2.jar"
-hash-format = "sha256"
-hash = "f4d292bcf44fc99f6905ee36301dba43a3643f5ccb31590f2a664bc6bfb765d2"

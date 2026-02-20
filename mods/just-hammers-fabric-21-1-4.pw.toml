@@ -1,8 +1,0 @@
-name = "just-hammers-fabric-21-1-4"
-filename = "just-hammers-fabric-21.1.4.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/just-hammers-fabric-21.1.4.jar"
-hash-format = "sha256"
-hash = "5418fc6d0f8bc780c6c80a3353e5e90cad38750188d258e4f68bc21922b2c604"

@@ -1,8 +1,0 @@
-name = "balm-fabric-1-21-1-21-0-49"
-filename = "balm-fabric-1.21.1-21.0.49.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/balm-fabric-1.21.1-21.0.49.jar"
-hash-format = "sha256"
-hash = "77f161086601119b855e5b79c89dff4be24d41773d16ced28fd0d2fcd722cc34"

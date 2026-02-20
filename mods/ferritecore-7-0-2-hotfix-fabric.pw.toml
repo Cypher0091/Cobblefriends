@@ -1,8 +1,0 @@
-name = "ferritecore-7-0-2-hotfix-fabric"
-filename = "ferritecore-7.0.2-hotfix-fabric.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/ferritecore-7.0.2-hotfix-fabric.jar"
-hash-format = "sha256"
-hash = "e3fae8e321474a35e94f9bb09eafd0440ce0fe98f4aebbc067e392889700a4fa"

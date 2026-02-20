@@ -1,8 +1,0 @@
-name = "shutter-2-1-2-fabric-1-21-1"
-filename = "shutter-2.1.2-fabric-1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/shutter-2.1.2-fabric-1.21.1.jar"
-hash-format = "sha256"
-hash = "c26d70f1274b4ae822f9919157563406c52f5aff17dc130d231c7e0c7bcee915"

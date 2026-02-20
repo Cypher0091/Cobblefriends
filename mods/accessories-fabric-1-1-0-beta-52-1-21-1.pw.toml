@@ -1,8 +1,0 @@
-name = "accessories-fabric-1-1-0-beta-52-1-21-1"
-filename = "accessories-fabric-1.1.0-beta.52+1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/accessories-fabric-1.1.0-beta.52%2B1.21.1.jar"
-hash-format = "sha256"
-hash = "a5e4c69263f529e0c4fb893597f455a7fc7eb5ec98eab5e58e116f52fe1676c4"

@@ -1,8 +1,0 @@
-name = "item-obliterator-fabric-quilt-mc-1-21-3-1-1"
-filename = "Item_Obliterator-Fabric_Quilt-MC_1.21-3.1.1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/Item_Obliterator-Fabric_Quilt-MC_1.21-3.1.1.jar"
-hash-format = "sha256"
-hash = "5cdeb21113f8055c9d3f47daf579b0672145f628a04c1c719aa77c703dbbf16c"

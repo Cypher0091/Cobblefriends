@@ -1,8 +1,0 @@
-name = "iris-fabric-1-8-8-mc1-21-1"
-filename = "iris-fabric-1.8.8+mc1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/iris-fabric-1.8.8%2Bmc1.21.1.jar"
-hash-format = "sha256"
-hash = "b5ad39a6cb113ca0a1765f06689f9f4b29ccd0c81247de90b06c42f5da1092f5"

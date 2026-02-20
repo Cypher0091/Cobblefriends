@@ -1,8 +1,0 @@
-name = "shouldersurfing-fabric-1-21-1-4-17-1"
-filename = "ShoulderSurfing-Fabric-1.21.1-4.17.1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/ShoulderSurfing-Fabric-1.21.1-4.17.1.jar"
-hash-format = "sha256"
-hash = "35175eabf5e6cbc7f675a82a33b42a8d55e165332f518840878c9bfa6eb4847d"

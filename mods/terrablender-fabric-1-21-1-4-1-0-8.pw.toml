@@ -1,8 +1,0 @@
-name = "terrablender-fabric-1-21-1-4-1-0-8"
-filename = "TerraBlender-fabric-1.21.1-4.1.0.8.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/TerraBlender-fabric-1.21.1-4.1.0.8.jar"
-hash-format = "sha256"
-hash = "5f2d25306abfed8c6c6291e8904ae1a9f6a8ab4f1bf5f3a21f7e263a5bf217a6"

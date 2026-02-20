@@ -1,8 +1,0 @@
-name = "particle-core-0-2-4-1-21"
-filename = "particle_core-0.2.4+1.21.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/particle_core-0.2.4%2B1.21.jar"
-hash-format = "sha256"
-hash = "8e8501761ade869d2924ee6b405c961d897e249bd999a20131964bc7a2ea50c5"

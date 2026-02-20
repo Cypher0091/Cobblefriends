@@ -1,8 +1,0 @@
-name = "worldedit-mod-7-3-8"
-filename = "worldedit-mod-7.3.8.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/worldedit-mod-7.3.8.jar"
-hash-format = "sha256"
-hash = "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca"

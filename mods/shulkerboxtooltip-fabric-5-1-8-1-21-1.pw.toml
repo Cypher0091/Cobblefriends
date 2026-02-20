@@ -1,8 +1,0 @@
-name = "shulkerboxtooltip-fabric-5-1-8-1-21-1"
-filename = "shulkerboxtooltip-fabric-5.1.8+1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/shulkerboxtooltip-fabric-5.1.8%2B1.21.1.jar"
-hash-format = "sha256"
-hash = "5d397ed1eabc7b6b77e2ca09565c6a01427dc7984fb39a46f560c286c1ab8961"

@@ -1,8 +1,0 @@
-name = "defaultoptions-fabric-1-21-1-21-1-2"
-filename = "defaultoptions-fabric-1.21.1-21.1.2.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/defaultoptions-fabric-1.21.1-21.1.2.jar"
-hash-format = "sha256"
-hash = "6989dae7d325e29938ade6ab81fd4edff8962b51677ee5412a19c501729bfff3"

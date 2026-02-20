@@ -1,8 +1,0 @@
-name = "creativecore-fabric-v2-13-29-mc1-21-1"
-filename = "CreativeCore_FABRIC_v2.13.29_mc1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/CreativeCore_FABRIC_v2.13.29_mc1.21.1.jar"
-hash-format = "sha256"
-hash = "c8fdf6d3407d45e9082ff14f83287c44324aeea3437b6fb70a4114eb8147afe7"

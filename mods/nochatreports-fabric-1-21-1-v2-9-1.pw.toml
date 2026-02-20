@@ -1,8 +1,0 @@
-name = "nochatreports-fabric-1-21-1-v2-9-1"
-filename = "NoChatReports-FABRIC-1.21.1-v2.9.1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/NoChatReports-FABRIC-1.21.1-v2.9.1.jar"
-hash-format = "sha256"
-hash = "413c3952cbbf641b492bb2e47763ed7e48d1d72db0863d9d2274a74ce5269849"

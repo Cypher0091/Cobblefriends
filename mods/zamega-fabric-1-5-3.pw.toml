@@ -1,8 +1,0 @@
-name = "zamega-fabric-1-5-3"
-filename = "zamega-fabric-1.5.3.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/zamega-fabric-1.5.3.jar"
-hash-format = "sha256"
-hash = "62ddd3eaf54cbb7ffd4d84c98201f1a04015291125922dbdbcaa124836c2bc9b"

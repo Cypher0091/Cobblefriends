@@ -1,8 +1,0 @@
-name = "entityculling-fabric-1-9-5-mc1-21-1"
-filename = "entityculling-fabric-1.9.5-mc1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/entityculling-fabric-1.9.5-mc1.21.1.jar"
-hash-format = "sha256"
-hash = "93d31151ffab504a7d7568ad7d6df6607ed5fa3d183afc961ead9d2d4c7accb8"

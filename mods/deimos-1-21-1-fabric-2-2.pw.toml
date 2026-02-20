@@ -1,8 +1,0 @@
-name = "deimos-1-21-1-fabric-2-2"
-filename = "deimos-1.21.1-fabric-2.2.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/deimos-1.21.1-fabric-2.2.jar"
-hash-format = "sha256"
-hash = "ed129608f5650d021d99e435f96afd475a2eda8f1f225c7adeeb432ef8435c50"

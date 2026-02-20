@@ -1,8 +1,0 @@
-name = "stoneworks-v21-1-0-1-21-1-fabric"
-filename = "Stoneworks-v21.1.0-1.21.1-Fabric.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/Stoneworks-v21.1.0-1.21.1-Fabric.jar"
-hash-format = "sha256"
-hash = "461fa8d46e14c72e08bd0a263f2578beff810c5860ce1a313fb189a79d69f0b3"

@@ -1,8 +1,0 @@
-name = "treechop-1-21-1-fabric-0-19-3a"
-filename = "TreeChop-1.21.1-fabric-0.19.3a.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/TreeChop-1.21.1-fabric-0.19.3a.jar"
-hash-format = "sha256"
-hash = "0dc097bc1a6f327b32b1c1bafadfa42b2a840280ab9b7808cc36df3f822cae55"

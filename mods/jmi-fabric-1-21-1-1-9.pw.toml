@@ -1,8 +1,0 @@
-name = "jmi-fabric-1-21-1-1-9"
-filename = "jmi-fabric-1.21.1-1.9.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/jmi-fabric-1.21.1-1.9.jar"
-hash-format = "sha256"
-hash = "55fd7df4257d2bff9b1814bbaeab589a67f31a547ebd0fd30bdee298142c1c1d"

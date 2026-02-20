@@ -1,8 +1,0 @@
-name = "jei-1-21-1-fabric-19-21-2-313"
-filename = "jei-1.21.1-fabric-19.21.2.313.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/jei-1.21.1-fabric-19.21.2.313.jar"
-hash-format = "sha256"
-hash = "e07ee903abae89c182452d992d271da2213e9f3e82e68e554697d510235b69cc"

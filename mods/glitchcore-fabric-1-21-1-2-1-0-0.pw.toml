@@ -1,8 +1,0 @@
-name = "glitchcore-fabric-1-21-1-2-1-0-0"
-filename = "GlitchCore-fabric-1.21.1-2.1.0.0.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/GlitchCore-fabric-1.21.1-2.1.0.0.jar"
-hash-format = "sha256"
-hash = "8ded94d33f1f1bdae9a845c35c3e4358528d71e2c45ad5642acfa9280e53fb47"

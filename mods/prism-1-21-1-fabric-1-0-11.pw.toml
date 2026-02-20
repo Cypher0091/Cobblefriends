@@ -1,8 +1,0 @@
-name = "prism-1-21-1-fabric-1-0-11"
-filename = "Prism-1.21.1-fabric-1.0.11.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/Prism-1.21.1-fabric-1.0.11.jar"
-hash-format = "sha256"
-hash = "244504f9730a6581e674b4e40ed399c5b08aa240a24aec49147338024eccbad7"

@@ -1,8 +1,0 @@
-name = "cobblemon-wonder-trade-fabric-1-1-0"
-filename = "cobblemon_wonder_trade-fabric-1.1.0.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/cobblemon_wonder_trade-fabric-1.1.0.jar"
-hash-format = "sha256"
-hash = "a629d50923077a5670e4cff850f7a7ad61b35c86cf59682b7018101565a6b896"

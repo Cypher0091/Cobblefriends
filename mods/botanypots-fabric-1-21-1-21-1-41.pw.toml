@@ -1,8 +1,0 @@
-name = "botanypots-fabric-1-21-1-21-1-41"
-filename = "botanypots-fabric-1.21.1-21.1.41.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/botanypots-fabric-1.21.1-21.1.41.jar"
-hash-format = "sha256"
-hash = "14dd5d079030e2b6dfda629a8c48255c82c55ba01e15e15810b1aaaf30110bc4"

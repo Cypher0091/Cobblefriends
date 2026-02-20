@@ -1,8 +1,0 @@
-name = "immersive-hotbar-1-0-4-1-21-1-21-1"
-filename = "immersive-hotbar-1.0.4-1.21-1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/immersive-hotbar-1.0.4-1.21-1.21.1.jar"
-hash-format = "sha256"
-hash = "41cb8434ee2674a54f961f95e61894194dae6c0af884a613e4f364ff8bedb8ea"

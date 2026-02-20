@@ -1,8 +1,0 @@
-name = "supplementaries-1-21-3-5-19-fabric"
-filename = "supplementaries-1.21-3.5.19-fabric.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/supplementaries-1.21-3.5.19-fabric.jar"
-hash-format = "sha256"
-hash = "5409c6caf4ce451d5ef4e9c22aa6aa6bf75f056295b33c285be969ad22d84dc9"

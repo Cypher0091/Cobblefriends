@@ -1,8 +1,0 @@
-name = "voicechat-fabric-1-21-1-2-5-35"
-filename = "voicechat-fabric-1.21.1-2.5.35.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/voicechat-fabric-1.21.1-2.5.35.jar"
-hash-format = "sha256"
-hash = "0928fd224c041af6c1474d62eab79f9a3579e0f7f9714f9cc07c116cb2bee964"

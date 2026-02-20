@@ -1,8 +1,0 @@
-name = "cupboard-fabric-1-21-2-9"
-filename = "cupboard-fabric-1.21-2.9.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/cupboard-fabric-1.21-2.9.jar"
-hash-format = "sha256"
-hash = "3a68c395d12e5313246d1576c9ca8815d4d8b4adedaf4236d7b8b4a48fdd82f7"

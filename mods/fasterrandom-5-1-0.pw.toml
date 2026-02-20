@@ -1,8 +1,0 @@
-name = "fasterrandom-5-1-0"
-filename = "fasterrandom-5.1.0.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/fasterrandom-5.1.0.jar"
-hash-format = "sha256"
-hash = "40b326e9c98610b54be67751e618193e671cc907240d94a57085259b10cedf08"

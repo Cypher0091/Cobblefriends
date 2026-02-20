@@ -1,8 +1,0 @@
-name = "chatanimation-1-0-6"
-filename = "chatanimation-1.0.6.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/chatanimation-1.0.6.jar"
-hash-format = "sha256"
-hash = "5269c1cdd7ef8bd04821e400120188caa385979ab4b4932af197a8a4f17b5c22"

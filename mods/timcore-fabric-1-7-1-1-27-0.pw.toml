@@ -1,8 +1,0 @@
-name = "timcore-fabric-1-7-1-1-27-0"
-filename = "timcore-fabric-1.7.1-1.27.0.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/timcore-fabric-1.7.1-1.27.0.jar"
-hash-format = "sha256"
-hash = "2513c891326e3464ab192fdc24b0a60e80e8212ced98053221fcd45b9fa55405"

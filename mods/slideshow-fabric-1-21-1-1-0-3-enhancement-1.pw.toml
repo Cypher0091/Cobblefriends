@@ -1,8 +1,0 @@
-name = "slideshow-fabric-1-21-1-1-0-3-enhancement-1"
-filename = "Slideshow-fabric-1.21.1-1.0.3-Enhancement-1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/Slideshow-fabric-1.21.1-1.0.3-Enhancement-1.jar"
-hash-format = "sha256"
-hash = "264e2ac321a192c45d4a0f5e7e52cc2b11cb41a709d14e1e03f307e541b6f5ec"

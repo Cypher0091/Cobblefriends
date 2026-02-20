@@ -1,8 +1,0 @@
-name = "catchindicator-fabric-1-3"
-filename = "catchindicator-fabric-1.3.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/catchindicator-fabric-1.3.jar"
-hash-format = "sha256"
-hash = "b0ffc783779014e0a0203421d5332d04a082c54f24cfefae4440938a7302147c"

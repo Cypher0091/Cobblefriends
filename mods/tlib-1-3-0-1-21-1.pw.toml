@@ -1,8 +1,0 @@
-name = "tlib-1-3-0-1-21-1"
-filename = "tlib-1.3.0-1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/tlib-1.3.0-1.21.1.jar"
-hash-format = "sha256"
-hash = "348e614960de1b484cc58e1433aa388fe56d9e2b22de99bb537463f3ace9a635"
