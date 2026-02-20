@@ -1310,10 +1310,6 @@ hash = "8a5301ea797c03425c999179c3c851b2c6d00932c699f5af9a4d542370906f45"
 metafile = true
 
 [[files]]
-file = "overrides/resourcepacks/ATM x MSD [3.2.0LM]/LICENSE"
-hash = "ac0214664925367e8807266d84efad99afce086b6786eca7e17609172e82f4fb"
-
-[[files]]
 file = "overrides/resourcepacks/ATM x MSD [3.2.0LM]/assets/atmxmsd/lang/en_us.json"
 hash = "472945486a9d7cd082605b9563ba0190effca476a40242a3c8fbc9614b1a15d1"
 
