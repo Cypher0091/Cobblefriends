@@ -1,9 +1,0 @@
-{
-  "pokemon": ["keldeo"],
-  "cosmeticItems": [
-    {
-      "consumedItem": "atmxmsd:pledge_fragment",
-      "aspects": ["cosmetic_item-pledge_fragment"]
-    }
-  ]
-}

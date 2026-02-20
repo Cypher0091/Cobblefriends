@@ -1,9 +1,0 @@
-{
-    "species": "cobblemon:skitty",
-    "order": 2,
-    "variations": [
-      {
-        "aspects": ["shiny", "radiant-radiant"],
-        "texture": "cobblemon:textures/pokemon/0300_skitty/skitty_radiant.png"}
-    ]
-  }

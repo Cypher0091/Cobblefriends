@@ -1,5 +1,0 @@
-execute as @e[nbt={Pokemon:{Features:[{"radiant": "radiant"}],Shiny:1b,PokemonOriginalTrainerType: "NONE"}},tag=!radiantSpawned,limit=1] run team join radiantShiny @s
-execute as @e[nbt={Pokemon:{Features:[{"radiant": "radiant"}],Shiny:1b,PokemonOriginalTrainerType: "NONE"}},tag=!radiantSpawned] at @s run tellraw @a[distance=..100] [{"text":"Un","color":"yellow"},{"text":" Pokémon","color":"gold"},{"text":" Radiant","color":"light_purple","bold":true},{"text":" a surgi à proximité !","color":"yellow"}]
-execute as @e[nbt={Pokemon:{Features:[{"radiant": "radiant"}],Shiny:1b,PokemonOriginalTrainerType: "NONE"}},tag=!radiantSpawned] at @s run playsound cobblemon:particle.prismaticsparkle master @a[distance=..100] ~ ~ ~ 0 0
-execute as @e[nbt={Pokemon:{Features:[{"radiant": "radiant"}],Shiny:1b,PokemonOriginalTrainerType: "NONE"}},tag=!radiantSpawned,limit=1] run effect give @s minecraft:glowing 300 1 true
-execute as @e[nbt={Pokemon:{Features:[{"radiant": "radiant"}],Shiny:1b,PokemonOriginalTrainerType: "NONE"}}] run tag @s add radiantSpawned

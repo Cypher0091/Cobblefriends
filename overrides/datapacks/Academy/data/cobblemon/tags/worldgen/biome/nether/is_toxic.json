@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    {
-      "id": "regions_unexplored:mycotoxic_undergrowth",
-      "required": false
-    }
-  ]
-}

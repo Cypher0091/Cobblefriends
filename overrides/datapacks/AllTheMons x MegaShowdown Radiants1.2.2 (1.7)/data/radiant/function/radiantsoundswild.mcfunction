@@ -1,1 +1,0 @@
-execute at @e[nbt={Pokemon:{Features:[{"radiant": "radiant"}],Shiny:1b,PokemonOriginalTrainerType: "NONE"}}] run playsound cobblemon:particle.prismaticsparkle master @p ~ ~ ~ 0 0
