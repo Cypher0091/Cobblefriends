@@ -1,0 +1,8 @@
+name = "suppsquared-1-21-1-2-17-fabric"
+filename = "suppsquared-1.21-1.2.17-fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/suppsquared-1.21-1.2.17-fabric.jar"
+hash-format = "sha256"
+hash = "94bbcf28837e7c47d963a34f03ff0022808e1e99e78800bb631deb730077db6b"

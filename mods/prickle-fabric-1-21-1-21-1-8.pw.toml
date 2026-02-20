@@ -1,0 +1,8 @@
+name = "prickle-fabric-1-21-1-21-1-8"
+filename = "prickle-fabric-1.21.1-21.1.8.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/prickle-fabric-1.21.1-21.1.8.jar"
+hash-format = "sha256"
+hash = "0298071d0c28a7417b713b89e35f8a8ccb8b0afb83f75bb786deca0d7b56945a"

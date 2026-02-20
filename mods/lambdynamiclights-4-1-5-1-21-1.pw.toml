@@ -1,0 +1,8 @@
+name = "lambdynamiclights-4-1-5-1-21-1"
+filename = "lambdynamiclights-4.1.5+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/lambdynamiclights-4.1.5%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "239bff93185d9b2d447c75fa8532c10f2cd642aa1caf7fdc8ff78e3a2429ff98"

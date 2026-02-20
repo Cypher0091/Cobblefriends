@@ -1,0 +1,8 @@
+name = "blur-fabric-5-2-2-1-21-1-1-21-1"
+filename = "blur-fabric-5.2.2+1.21.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/blur-fabric-5.2.2%2B1.21.1%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "9808137147e9e83c323431532c034368a67bee69a981b31e044bb053718806e9"

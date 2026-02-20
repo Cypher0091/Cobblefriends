@@ -1,0 +1,8 @@
+name = "sit-1-21-28"
+filename = "sit-1.21-28.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/sit-1.21-28.jar"
+hash-format = "sha256"
+hash = "984ec2f1eb986a2178d3891897897222108f1c1253e32358b90f30cfcdb64289"

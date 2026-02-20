@@ -1,0 +1,8 @@
+name = "oh-the-biomes-weve-gone-fabric-2-4-6"
+filename = "Oh-The-Biomes-Weve-Gone-Fabric-2.4.6.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/Oh-The-Biomes-Weve-Gone-Fabric-2.4.6.jar"
+hash-format = "sha256"
+hash = "d964cd6b09ea2c8b76bea0b03f2179634f7a2205afee33cc70a4d79629f4dc45"

@@ -1,0 +1,8 @@
+name = "wwoo-2-3-4"
+filename = "wwoo-2.3.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/wwoo-2.3.4.jar"
+hash-format = "sha256"
+hash = "de4ef02f438b5dc680ed90ae14ef003da295f774e58c34390d19552cee0d25b9"

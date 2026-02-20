@@ -1,0 +1,8 @@
+name = "searchables-fabric-1-21-1-1-0-2"
+filename = "Searchables-fabric-1.21.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/Searchables-fabric-1.21.1-1.0.2.jar"
+hash-format = "sha256"
+hash = "0b58a40a41db4a4af4ef84475b0ea330be3b18fdcac2eca68ede46d9f4df3d76"

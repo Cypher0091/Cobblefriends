@@ -1,0 +1,8 @@
+name = "yet-another-config-lib-v3-3-7-1-1-21-1-fabric"
+filename = "yet_another_config_lib_v3-3.7.1+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/yet_another_config_lib_v3-3.7.1%2B1.21.1-fabric.jar"
+hash-format = "sha256"
+hash = "914f999e53a81cb37358ad9521422ddeeb293d399f0e4f1a6db3d946c1d80ad2"

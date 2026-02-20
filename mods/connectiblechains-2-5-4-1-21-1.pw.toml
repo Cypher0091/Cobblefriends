@@ -1,0 +1,8 @@
+name = "connectiblechains-2-5-4-1-21-1"
+filename = "connectiblechains-2.5.4+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/connectiblechains-2.5.4%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "8240847e71d501995d60b7c7f5cfc47da8dcaf9f8cc3375b7d2e257f2078d95f"

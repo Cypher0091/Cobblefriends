@@ -1,0 +1,8 @@
+name = "rechiseled-1-1-6b-fabric-mc1-21"
+filename = "rechiseled-1.1.6b-fabric-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/rechiseled-1.1.6b-fabric-mc1.21.jar"
+hash-format = "sha256"
+hash = "5d6b9ec2424ac152b380e4007a6f91699b1b7aceee868bfa8b1bd7862f682deb"

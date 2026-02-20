@@ -1,0 +1,8 @@
+name = "comforts-fabric-9-0-4-1-21-1"
+filename = "comforts-fabric-9.0.4+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/comforts-fabric-9.0.4%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "f636de45d6acb4c079f3413f071d6663437dad36ae556b771ec58a631b244962"

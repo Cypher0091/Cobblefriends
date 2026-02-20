@@ -1,0 +1,8 @@
+name = "collective-1-21-1-8-3"
+filename = "collective-1.21.1-8.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/collective-1.21.1-8.3.jar"
+hash-format = "sha256"
+hash = "611e6a1cb42cfd69097041b46c2febccf027182c0d792559e5ba4cb353ae1318"

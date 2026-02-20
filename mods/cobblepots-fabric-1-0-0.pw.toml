@@ -1,0 +1,8 @@
+name = "cobblepots-fabric-1-0-0"
+filename = "CobblePots-Fabric-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/CobblePots-Fabric-1.0.0.jar"
+hash-format = "sha256"
+hash = "10cc0aee6f9abdd160bca34f55b2abde6a49aaf3b2ba465356f25dcc6f17e57b"

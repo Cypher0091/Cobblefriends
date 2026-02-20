@@ -1,0 +1,13 @@
+name = "Cobblefriends"
+author = "OlsyzZ"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ab9f1925e9d4b8ab6b8b3b737ebae36b55418a49241ea19722e9f5e8d30d14ff"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.1"

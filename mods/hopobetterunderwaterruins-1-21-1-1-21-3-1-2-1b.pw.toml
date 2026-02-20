@@ -1,0 +1,8 @@
+name = "hopobetterunderwaterruins-1-21-1-1-21-3-1-2-1b"
+filename = "HopoBetterUnderwaterRuins-.1.21.1-1.21.3.-1.2.1b.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/HopoBetterUnderwaterRuins-.1.21.1-1.21.3.-1.2.1b.jar"
+hash-format = "sha256"
+hash = "818206b8a031fa16169428681cbebafbd20270b7b34331b5b20e15af34664563"

@@ -1,0 +1,8 @@
+name = "cobblemontrialsedition-fabric-1-1-0"
+filename = "CobblemonTrialsEdition-fabric-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/CobblemonTrialsEdition-fabric-1.1.0.jar"
+hash-format = "sha256"
+hash = "2c318a1a4208d6bba8a9403f676d1063851ab380f290e9f90f3232001b4eddda"

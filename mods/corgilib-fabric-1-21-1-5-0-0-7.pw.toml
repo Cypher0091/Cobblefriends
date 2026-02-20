@@ -1,0 +1,8 @@
+name = "corgilib-fabric-1-21-1-5-0-0-7"
+filename = "Corgilib-Fabric-1.21.1-5.0.0.7.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/Corgilib-Fabric-1.21.1-5.0.0.7.jar"
+hash-format = "sha256"
+hash = "0b3780598ffb042a05ab3730472636d06d0f57f2158e7cfc243b5861c62b11ae"

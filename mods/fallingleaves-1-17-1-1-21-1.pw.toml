@@ -1,0 +1,8 @@
+name = "fallingleaves-1-17-1-1-21-1"
+filename = "fallingleaves-1.17.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/fallingleaves-1.17.1%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "67e2071d6c25e2638573e6ee91a146b77e38d77edddbb26f45006ab878ebca77"

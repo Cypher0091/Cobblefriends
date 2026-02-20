@@ -1,0 +1,8 @@
+name = "emi-1-1-22-1-21-1-fabric"
+filename = "emi-1.1.22+1.21.1+fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/emi-1.1.22%2B1.21.1%2Bfabric.jar"
+hash-format = "sha256"
+hash = "6da00a8d13cad6e55abaa3032d80ff4d1d1520146b683f1ca7c029e01718fe05"

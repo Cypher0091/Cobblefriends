@@ -1,0 +1,8 @@
+name = "luckys-cozyhome-refurnished-1-1-20"
+filename = "Luckys-Cozyhome-Refurnished-1.1.20.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/Luckys-Cozyhome-Refurnished-1.1.20.jar"
+hash-format = "sha256"
+hash = "0915e3e54c12fe40622cab94005418d32cbde011fa9c2d7c27756eb7d5313a66"

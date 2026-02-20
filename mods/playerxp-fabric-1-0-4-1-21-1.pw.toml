@@ -1,0 +1,8 @@
+name = "playerxp-fabric-1-0-4-1-21-1"
+filename = "playerxp-fabric-1.0.4+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/playerxp-fabric-1.0.4%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "efa8d5f9a65103fca2c52991a05601d6225ebb39fa829b9717c58a83807f2df3"

@@ -1,0 +1,8 @@
+name = "cobblemon-battle-tower-fabric-1-1-2"
+filename = "cobblemon_battle_tower-fabric-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/cobblemon_battle_tower-fabric-1.1.2.jar"
+hash-format = "sha256"
+hash = "c5bc5fb494c75d6b4874ff0112f8ad2dc4fc754193ad77ea8a24197399f11c3b"

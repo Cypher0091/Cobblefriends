@@ -1,0 +1,8 @@
+name = "player-roles-1-6-13"
+filename = "player-roles-1.6.13.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/player-roles-1.6.13.jar"
+hash-format = "sha256"
+hash = "aea16a88281f467d8b38aa95a68f4a4159e7fd59c3fffb016d7a1aeec72d899c"

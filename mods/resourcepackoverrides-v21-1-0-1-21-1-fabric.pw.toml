@@ -1,0 +1,8 @@
+name = "resourcepackoverrides-v21-1-0-1-21-1-fabric"
+filename = "ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar"
+hash-format = "sha256"
+hash = "5db1e3d3f07947ceb893ccd823a7660f62f8f794e2bf9a5b721a3c3d32dcbc59"

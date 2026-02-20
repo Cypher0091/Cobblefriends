@@ -1,0 +1,8 @@
+name = "arts-and-crafts-fabric-1-21-1-1-5-3"
+filename = "arts_and_crafts-fabric-1.21.1-1.5.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/arts_and_crafts-fabric-1.21.1-1.5.3.jar"
+hash-format = "sha256"
+hash = "2c258deea1f56920d57571b25446a8c02772bc77577ba9fa352478977b32aaa2"

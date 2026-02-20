@@ -1,0 +1,8 @@
+name = "chunksfadein-fabric-3-0-15-1-21"
+filename = "chunksfadein-fabric-3.0.15-1.21.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/chunksfadein-fabric-3.0.15-1.21.jar"
+hash-format = "sha256"
+hash = "afac78294674006a8b88068fbfb7f1c81cd67985a7685236ade7f3af69c54373"

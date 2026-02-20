@@ -1,0 +1,8 @@
+name = "ftb-chunks-fabric-2101-1-13"
+filename = "ftb-chunks-fabric-2101.1.13.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/ftb-chunks-fabric-2101.1.13.jar"
+hash-format = "sha256"
+hash = "de5b5fa3dba54394a4980d3b19acfa7ea79240b138ca3554e80f92157dfb1291"

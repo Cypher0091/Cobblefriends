@@ -1,0 +1,8 @@
+name = "templates-mod-2-5-1-1-21-1"
+filename = "templates-mod-2.5.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/templates-mod-2.5.1%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "10ca391b78c8f54e2a5ee433aa3b35446f506f492c9d58f7d35ecbd50f04539b"

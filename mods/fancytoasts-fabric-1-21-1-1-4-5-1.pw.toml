@@ -1,0 +1,8 @@
+name = "fancytoasts-fabric-1-21-1-1-4-5-1"
+filename = "fancytoasts-fabric-1.21.1-1.4.5.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/fancytoasts-fabric-1.21.1-1.4.5.1.jar"
+hash-format = "sha256"
+hash = "e5a955c3718d7fdac0f839836bfca3d30f746dc48e4182272b9d7236567a261c"

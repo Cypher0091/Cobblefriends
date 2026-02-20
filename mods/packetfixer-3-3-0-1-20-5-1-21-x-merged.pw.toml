@@ -1,0 +1,8 @@
+name = "packetfixer-3-3-0-1-20-5-1-21-x-merged"
+filename = "packetfixer-3.3.0-1.20.5-1.21.X-merged.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/packetfixer-3.3.0-1.20.5-1.21.X-merged.jar"
+hash-format = "sha256"
+hash = "3285a55983d9c02b82d5707ab1e1fe942a81a5b7ea8c845e753ecdcd4ed5b1ab"

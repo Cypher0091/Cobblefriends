@@ -1,0 +1,8 @@
+name = "crd-converters-fabric-1-1-0-1-21-1"
+filename = "crd_converters-fabric-1.1.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/crd_converters-fabric-1.1.0%2B1.21.1.jar"
+hash-format = "sha256"
+hash = "85a0eaa27b942c09e182f8f01595d9a17d8889d6cc684d77c8a02779273c6145"

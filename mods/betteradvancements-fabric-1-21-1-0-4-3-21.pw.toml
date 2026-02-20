@@ -1,0 +1,8 @@
+name = "betteradvancements-fabric-1-21-1-0-4-3-21"
+filename = "BetterAdvancements-Fabric-1.21.1-0.4.3.21.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/BetterAdvancements-Fabric-1.21.1-0.4.3.21.jar"
+hash-format = "sha256"
+hash = "7542d8f2f280fad5698f114ab28c28300e52bdcf80622f3c104b96434162fcf5"

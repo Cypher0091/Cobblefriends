@@ -1,0 +1,8 @@
+name = "sophisticatedcore-1-21-1-1-2-9-19-161"
+filename = "sophisticatedcore-1.21.1-1.2.9.19.161.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/sophisticatedcore-1.21.1-1.2.9.19.161.jar"
+hash-format = "sha256"
+hash = "a1a64e9d63522b12df8ce8c235dabb5947bcfc0c93244052824a77287d1f3e4e"

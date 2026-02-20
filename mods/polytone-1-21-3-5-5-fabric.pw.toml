@@ -1,0 +1,8 @@
+name = "polytone-1-21-3-5-5-fabric"
+filename = "polytone-1.21-3.5.5-fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/polytone-1.21-3.5.5-fabric.jar"
+hash-format = "sha256"
+hash = "65a915b4b635dff0477338150079e0486710768fae7106efa15af671d5dd5b6c"

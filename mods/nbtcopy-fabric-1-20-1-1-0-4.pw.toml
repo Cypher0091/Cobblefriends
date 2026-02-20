@@ -1,0 +1,8 @@
+name = "nbtcopy-fabric-1-20-1-1-0-4"
+filename = "NBTcopy-FABRIC-1.20.1-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/NBTcopy-FABRIC-1.20.1-1.0.4.jar"
+hash-format = "sha256"
+hash = "08a2ff22a3f256fcdb93e9abdf5ee77da3b8cb209f0a79b1e8a4b16cf051a01b"

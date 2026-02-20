@@ -1,0 +1,8 @@
+name = "cobblemon-economy-0-0-16"
+filename = "cobblemon-economy-0.0.16.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/cobblemon-economy-0.0.16.jar"
+hash-format = "sha256"
+hash = "9bc18e7f6eb74519b7cd1f2d629f8bf3386bda1335798dc721fe5497193fdb9e"

@@ -1,0 +1,8 @@
+name = "athena-fabric-1-21-4-0-2"
+filename = "athena-fabric-1.21-4.0.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/athena-fabric-1.21-4.0.2.jar"
+hash-format = "sha256"
+hash = "998c92dc8e01999f3e6870c94102aa73d755dc56f17a7d36c67f79178f836ffb"

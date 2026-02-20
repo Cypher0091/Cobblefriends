@@ -1,0 +1,8 @@
+name = "dynamiccrosshair-9-10-1-21-1-fabric"
+filename = "dynamiccrosshair-9.10+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/dynamiccrosshair-9.10%2B1.21.1-fabric.jar"
+hash-format = "sha256"
+hash = "962a58083336b6ecb27041cfe2635999177c2c034120576837114ee86fe44895"

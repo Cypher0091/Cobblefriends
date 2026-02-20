@@ -1,0 +1,8 @@
+name = "effectual-1-1-0-1-21-1"
+filename = "effectual-1.1.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/effectual-1.1.0-1.21.1.jar"
+hash-format = "sha256"
+hash = "e58110d036e8fb64fdf5750500efa7b33c1a5774a337e046399767f4ca472c39"

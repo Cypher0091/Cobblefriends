@@ -1,0 +1,8 @@
+name = "farmers-cutting-oh-the-biomes-weve-gone-1-21-1-2-1-fabric"
+filename = "farmers-cutting-oh-the-biomes-weve-gone-1.21.1-2.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/farmers-cutting-oh-the-biomes-weve-gone-1.21.1-2.1-fabric.jar"
+hash-format = "sha256"
+hash = "19ff460305ca4c0453641d8270c33b235a0c3a9dc49e532e89b97e8771a1fc5a"

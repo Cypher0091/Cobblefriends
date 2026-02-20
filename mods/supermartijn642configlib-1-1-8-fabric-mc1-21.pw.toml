@@ -1,0 +1,8 @@
+name = "supermartijn642configlib-1-1-8-fabric-mc1-21"
+filename = "supermartijn642configlib-1.1.8-fabric-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/supermartijn642configlib-1.1.8-fabric-mc1.21.jar"
+hash-format = "sha256"
+hash = "63a29f2acf4be2c5ca89a81a046c1100111ad2865d9638f638e27ca161e7211c"

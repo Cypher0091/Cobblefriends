@@ -1,0 +1,8 @@
+name = "stfu-1-2-2"
+filename = "Stfu-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/Stfu-1.2.2.jar"
+hash-format = "sha256"
+hash = "50a0de0d6dec16b99caaac139676d6fd2d3aca412835ed77aed0363a10885cfa"

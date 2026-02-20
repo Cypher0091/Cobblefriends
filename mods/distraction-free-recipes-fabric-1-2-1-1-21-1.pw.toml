@@ -1,0 +1,8 @@
+name = "distraction-free-recipes-fabric-1-2-1-1-21-1"
+filename = "distraction_free_recipes-fabric-1.2.1-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/distraction_free_recipes-fabric-1.2.1-1.21.1.jar"
+hash-format = "sha256"
+hash = "82a3a3113fe4aeef66bdb640c160e5cee59a72bb780431c7bab3f0a1b4c01398"

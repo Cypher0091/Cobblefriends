@@ -1,0 +1,8 @@
+name = "itemzoomer-1-1-0-1-21-1"
+filename = "itemzoomer-1.1.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/itemzoomer-1.1.0-1.21.1.jar"
+hash-format = "sha256"
+hash = "28371c56e34a2c73ffecf4b12cce657a4c1e90cd6b3b1cfffa23b70a5909a5eb"

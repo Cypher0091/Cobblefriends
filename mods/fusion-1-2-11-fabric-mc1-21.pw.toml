@@ -1,0 +1,8 @@
+name = "fusion-1-2-11-fabric-mc1-21"
+filename = "fusion-1.2.11-fabric-mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/fusion-1.2.11-fabric-mc1.21.jar"
+hash-format = "sha256"
+hash = "17ebe8d064373a433496794eba3fa3e05929cc6eaad8a326d58ba2c9f0f6744c"

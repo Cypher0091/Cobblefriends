@@ -1,0 +1,8 @@
+name = "bobby-5-2-4-mc1-21"
+filename = "bobby-5.2.4+mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/bobby-5.2.4%2Bmc1.21.jar"
+hash-format = "sha256"
+hash = "abf66c25c5738f15528ed8a2787e9df4ce73cd84258fba5264fb049d9e591655"

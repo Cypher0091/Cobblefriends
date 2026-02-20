@@ -1,0 +1,8 @@
+name = "sounds-2-4-13-1-lts-1-21-1-fabric"
+filename = "sounds-2.4.13.1+lts+1.21.1+fabric.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/sounds-2.4.13.1%2Blts%2B1.21.1%2Bfabric.jar"
+hash-format = "sha256"
+hash = "d3871ae9fade6659394249c34d60fbc093f59a757e518fdd8f39448615a22d17"
