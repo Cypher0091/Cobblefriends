@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:noibat",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0714_noibat/noibat_radiant.png"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:aron",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0304_aron/aron_radiant.png"
+    }
+  ]
+}

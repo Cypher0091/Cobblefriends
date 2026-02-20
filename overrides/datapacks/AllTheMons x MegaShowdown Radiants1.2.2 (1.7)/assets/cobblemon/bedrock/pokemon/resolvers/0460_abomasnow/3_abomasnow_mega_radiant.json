@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:abomasnow",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": ["shiny", "mega", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0460_abomasnow/abomasnow_mega_radiant.png"
+    }
+  ]
+}

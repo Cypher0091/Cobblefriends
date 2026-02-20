@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:mudkip",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0258_mudkip/mudkip_radiant.png"
+    }
+  ]
+}

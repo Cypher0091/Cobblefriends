@@ -1,0 +1,10 @@
+{
+    "species": "cobblemon:delcatty",
+    "order": 2 ,
+    "variations": [
+
+      {
+        "aspects": ["shiny", "radiant-radiant"],
+        "texture": "cobblemon:textures/pokemon/0301_delcatty/delcatty_radiant.png"}
+    ]
+  }

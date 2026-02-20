@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:dugtrio",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant", "alolan"],
+      "texture": "cobblemon:textures/pokemon/0051_dugtrio/dugtrio_alolan_radiant.png"
+    }
+  ]
+}

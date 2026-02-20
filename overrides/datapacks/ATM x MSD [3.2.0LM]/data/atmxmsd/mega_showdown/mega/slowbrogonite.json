@@ -1,0 +1,15 @@
+{
+  "showdown_id": "slowbrogonite",
+  "pokemons": ["Slowbro"],
+  "aspect_conditions": {
+    "apply": {
+      "aspects": ["mega_evolution=mega_y"],
+      "aspect": {
+          "required_aspects": [["galarian"]]
+        }
+     },
+    "revert": {
+      "aspects": ["mega_evolution=none"]
+    }
+  }
+}

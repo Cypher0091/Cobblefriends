@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:noivern",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0715_noivern/noivern_radiant.png"
+    }
+  ]
+}

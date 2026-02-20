@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:fidough",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0926_fidough/fidough_radiant.png"
+    }
+  ]
+}

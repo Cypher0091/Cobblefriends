@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:durant",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0632_durant/durant_radiant.png"
+    }
+  ]
+}

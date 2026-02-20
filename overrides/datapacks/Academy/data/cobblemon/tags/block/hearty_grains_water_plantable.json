@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	"values":
+	[
+		"#minecraft:dirt",
+		"#minecraft:sand",
+		"#c:gravels",
+		"minecraft:farmland",
+		"farmersdelight:rich_soil_farmland"
+  ]
+}

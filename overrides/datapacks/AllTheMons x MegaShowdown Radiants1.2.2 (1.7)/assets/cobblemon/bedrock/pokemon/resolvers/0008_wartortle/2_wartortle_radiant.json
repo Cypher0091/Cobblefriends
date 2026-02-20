@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:wartortle",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0008_wartortle/wartortle_radiant.png"
+    }
+  ]
+}

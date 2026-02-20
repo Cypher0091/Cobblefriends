@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:gholdengo",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/1000_gholdengo/gholdengo_radiant.png"
+    }
+  ]
+}

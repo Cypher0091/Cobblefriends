@@ -1,0 +1,22 @@
+{
+  "species": "cobblemon:corviknight",
+  "order": 5,
+  "variations": [
+    {
+      "aspects": [
+        "shiny",
+        "gmax",
+        "radiant-radiant",
+        "female"
+      ],
+      "texture": "cobblemon:textures/pokemon/0823_corviknight/corviknight_gmax_female_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0823_corviknight/corviknight_gmax_emissive.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

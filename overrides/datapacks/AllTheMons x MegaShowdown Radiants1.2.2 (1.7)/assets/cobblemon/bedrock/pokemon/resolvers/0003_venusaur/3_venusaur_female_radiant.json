@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:venusaur",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": ["shiny", "female", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0003_venusaur/venusaur_female_radiant.png"
+    }
+  ]
+}

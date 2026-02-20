@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:flapple",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0841_flapple/flapple_radiant.png"
+    }
+  ]
+}

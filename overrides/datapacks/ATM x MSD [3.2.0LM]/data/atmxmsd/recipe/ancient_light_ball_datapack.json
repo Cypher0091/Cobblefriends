@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":  [
+    {
+      "item": "cobblemon:electric_gem"
+    },
+    {
+      "item": "cobblemon:light_ball"
+    },
+    {
+      "item": "minecraft:clock"
+    }
+  ],
+"result": {
+    "id": "minecraft:trial_key",
+    "components": {
+      "minecraft:custom_model_data": 260617,
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Ancient Light Ball\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"text\":\"Form Changes\", \"color\":\"blue\", \"italic\":false}",
+        "{\"color\":\"gray\",\"text\":\"A rare relic from a distant time\"}",
+        "{\"color\":\"gray\",\"text\":\"it has a strange effect on Pichu.\"}"
+      ]
+    }
+  }
+}

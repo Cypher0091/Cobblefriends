@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:lucario",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0448_lucario/lucario_radiant.png"
+    }
+  ]
+}

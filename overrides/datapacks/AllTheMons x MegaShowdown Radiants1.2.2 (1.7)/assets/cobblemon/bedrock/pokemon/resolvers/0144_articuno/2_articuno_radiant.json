@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:articuno",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0144_articuno/articuno_radiant.png"
+    }
+  ]
+}

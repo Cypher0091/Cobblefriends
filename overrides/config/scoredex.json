@@ -1,0 +1,15 @@
+{
+  "port": 8080,
+  "updateIntervalMinutes": 60,
+  "imageTitle": "CLASSEMENTS GÉNÉRAUX DU SERVEUR",
+  "timeZone": "Europe/Paris",
+  "maxPlayers": 10,
+  "colors": {
+    "footerText": "#FFFF00",
+    "background": "#141414",
+    "text": "#FFFFFF",
+    "panel": "#1F1F1F",
+    "accent": "#b3700d",
+    "titleBackground": "#b3700d"
+  }
+}

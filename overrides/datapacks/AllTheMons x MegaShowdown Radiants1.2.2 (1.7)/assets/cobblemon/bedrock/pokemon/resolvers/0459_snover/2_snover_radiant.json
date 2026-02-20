@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:snover",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0459_snover/snover_radiant.png"
+    }
+  ]
+}

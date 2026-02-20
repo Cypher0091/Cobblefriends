@@ -1,0 +1,12 @@
+{
+ "species": "cobblemon:anorith",
+ "order": 2,
+ "variations": [
+   {
+     "aspects": [
+       "shiny", "radiant-radiant"
+     ],
+     "texture": "cobblemon:textures/pokemon/0347_anorith/anorith_radiant.png"
+   }
+ ]
+}

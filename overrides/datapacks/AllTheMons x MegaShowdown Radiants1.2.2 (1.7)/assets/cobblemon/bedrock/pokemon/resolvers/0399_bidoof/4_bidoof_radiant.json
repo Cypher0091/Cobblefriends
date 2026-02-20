@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:bidoof",
+  "order": 4,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0399_bidoof/bidoof_radiant.png"
+    }
+  ]
+}

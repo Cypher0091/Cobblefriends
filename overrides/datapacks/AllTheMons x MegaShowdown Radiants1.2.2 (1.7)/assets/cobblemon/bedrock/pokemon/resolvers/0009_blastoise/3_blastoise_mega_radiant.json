@@ -1,0 +1,13 @@
+{
+  "species": "cobblemon:blastoise",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": [
+        "mega",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_mega_radiant.png"
+    }
+  ]
+}

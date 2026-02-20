@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:slowking",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": ["shiny", "galarian", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0199_slowking/slowking_galarian_radiant.png"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "options": [
+    {
+      "weight": 10,
+      "showdown": "garchomp ability=roughskin held_item=cobblemon:lum_berry nature=jolly moves=earthquake,dragontail,rockslide,swordsdance evs=56hp,200atk,200spe ivs=31hp,31atk,31spe,31def,31spd,31spa"
+    },
+    {
+      "weight": 10,
+      "showdown": "scizor ability=technician held_item=cobblemon:metal_coat nature=adamant moves=bulletpunch,xscissor,swordsdance,roost evs=140hp,200atk,60spd,110def ivs=31hp,31atk,31def,31spd,31spe,31spa"
+    },
+    {
+      "weight": 10,
+      "showdown": "rotom_wash ability=levitate held_item=cobblemon:sitrus_berry nature=calm moves=hydropump,thunderbolt,voltswitch,willowisp evs=140hp,200spd,120spa,50spe ivs=31hp,31spa,31spd,31def,31spe,31atk"
+    },
+    {
+      "weight": 10,
+      "showdown": "dragonite ability=innerfocus held_item=cobblemon:lum_berry nature=adamant moves=dragondance,dragonclaw,firepunch,extremespeed evs=120hp,200atk,190spe ivs=31hp,31atk,31spe,31def,31spd,31spa"
+    },
+    {
+      "weight": 10,
+      "showdown": "milotic ability=marvelscale held_item=cobblemon:leftovers nature=bold moves=surf,icebeam,recover,toxic evs=200hp,200def,110spd ivs=31hp,31def,31spd,31spa,31spe,31atk"
+    },
+    {
+      "weight": 10,
+      "showdown": "magnezone ability=magnetpull held_item=cobblemon:choice_specs nature=modest moves=thunderbolt,flashcannon,voltswitch,triattack evs=140hp,200spa,80spe,90spd ivs=31hp,31spa,31spe,31def,31spd,31atk"
+    },
+    {
+      "weight": 10,
+      "showdown": "weavile ability=pressure held_item=cobblemon:life_orb nature=jolly moves=icepunch,nightslash,lowkick,iceshard evs=56hp,200atk,200spe ivs=31hp,31atk,31spe,31def,31spd,31spa"
+    },
+    {
+      "weight": 10,
+      "showdown": "togekiss ability=serenegrace held_item=cobblemon:leftovers nature=calm moves=airslash,dazzlinggleam,thunderwave,roost evs=200hp,200spd,56spa,54spe ivs=31hp,31spa,31spd,31def,31spe,31atk"
+    },
+    {
+      "weight": 10,
+      "showdown": "excadrill ability=moldsbreaker held_item=cobblemon:assault_vest nature=adamant moves=earthquake,ironhead,rockslide,rapidspin evs=56hp,200atk,200spe ivs=31hp,31atk,31spe,31def,31spd,31spa"
+    },
+    {
+      "weight": 10,
+      "showdown": "mimikyu ability=disguise held_item=cobblemon:expert_belt nature=jolly moves=playrough,shadowclaw,shadowsneak,swordsdance evs=120hp,200atk,190spe ivs=31hp,31atk,31spe,31def,31spd,31spa"
+    }
+  ]
+}

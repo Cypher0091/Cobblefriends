@@ -1,0 +1,12 @@
+{
+ "species": "cobblemon:hatenna",
+ "order": 2,
+ "variations": [
+   {
+     "aspects": [
+       "shiny", "radiant-radiant"
+     ],
+     "texture": "cobblemon:textures/pokemon/0856_hatenna/hatenna_radiant.png"
+   }
+ ]
+}

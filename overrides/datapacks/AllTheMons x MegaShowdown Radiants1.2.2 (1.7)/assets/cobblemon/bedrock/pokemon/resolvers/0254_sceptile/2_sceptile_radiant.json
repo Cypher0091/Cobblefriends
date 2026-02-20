@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:sceptile",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0254_sceptile/sceptile_radiant.png"
+    }
+  ]
+}

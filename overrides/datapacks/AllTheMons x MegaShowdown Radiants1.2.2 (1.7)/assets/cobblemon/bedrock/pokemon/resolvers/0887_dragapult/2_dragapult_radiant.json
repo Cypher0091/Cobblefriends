@@ -1,0 +1,12 @@
+{
+ "species": "cobblemon:dragapult",
+ "order": 2,
+ "variations": [
+   {
+     "aspects": [
+       "shiny", "radiant-radiant"
+     ],
+     "texture": "cobblemon:textures/pokemon/0887_dragapult/dragapult_radiant.png"
+   }
+ ]
+}

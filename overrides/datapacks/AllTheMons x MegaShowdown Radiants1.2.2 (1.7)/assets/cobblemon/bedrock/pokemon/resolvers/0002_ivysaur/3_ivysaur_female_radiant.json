@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:ivysaur",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": ["shiny", "female", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0002_ivysaur/ivysaur_female_radiant.png"
+    }
+  ]
+}

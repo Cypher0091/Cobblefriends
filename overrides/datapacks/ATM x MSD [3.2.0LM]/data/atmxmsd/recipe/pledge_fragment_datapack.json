@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "TTT",
+    "TRT",
+    "TTT"
+  ],
+  "key": {
+    "R": {
+      "item": "cobblemon:smooth_rock"
+    },
+    "T": {
+      "tag": "cobblemon:tumblestones"
+    }
+  },
+  "result": {
+    "id": "minecraft:trial_key",
+    "components": {
+      "minecraft:custom_model_data": 260612,
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Pledge Fragment\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"text\":\"Form Changes\", \"color\":\"blue\", \"italic\":false}",
+        "{\"color\":\"gray\",\"text\":\"A piece of a rock where pledges are made\"}",
+        "{\"color\":\"gray\",\"text\":\"It has a strange effect on Keldeo.\"}"
+      ]
+    }
+  }
+}

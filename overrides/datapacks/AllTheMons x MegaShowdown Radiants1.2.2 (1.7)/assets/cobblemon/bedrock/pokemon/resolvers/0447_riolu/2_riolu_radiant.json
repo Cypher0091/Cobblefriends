@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:riolu",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0447_riolu/riolu_radiant.png"
+    }
+  ]
+}

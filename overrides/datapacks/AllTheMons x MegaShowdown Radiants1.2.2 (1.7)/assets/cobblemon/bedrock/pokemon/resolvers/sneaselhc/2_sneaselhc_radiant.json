@@ -1,0 +1,12 @@
+{
+ "species": "cobblemon:sneaselhc",
+ "order": 2,
+ "variations": [
+   {
+     "aspects": [
+       "shiny", "radiant-radiant"
+     ],
+     "texture": "cobblemon:textures/pokemon/sneaselhc/sneaselhc_radiant.png"
+   }
+ ]
+}

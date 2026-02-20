@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:squirtle",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0007_squirtle/squirtle_radiant.png"
+    }
+  ]
+}

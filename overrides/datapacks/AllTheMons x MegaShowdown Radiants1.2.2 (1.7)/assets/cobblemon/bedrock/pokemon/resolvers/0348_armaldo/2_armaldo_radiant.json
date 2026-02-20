@@ -1,0 +1,12 @@
+{
+ "species": "cobblemon:armaldo",
+ "order": 2,
+ "variations": [
+   {
+     "aspects": [
+       "shiny", "radiant-radiant"
+     ],
+     "texture": "cobblemon:textures/pokemon/0348_armaldo/armaldo_radiant.png"
+   }
+ ]
+}

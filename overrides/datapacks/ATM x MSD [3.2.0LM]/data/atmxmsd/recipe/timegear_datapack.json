@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " c ",
+    "cac",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "mega_showdown:adamant_orb"
+    },
+    "c": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "id": "minecraft:trial_key",
+    "count": 1,
+    "components": {
+      "mega_showdown:registry_type_component": "held_form_change",
+      "mega_showdown:registry_location_component": "atmxmsd:timegear",
+      "minecraft:custom_model_data": 260618,
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Time Gear\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"text\":\"Form Changes\", \"color\":\"blue\", \"italic\":false}",
+        "{\"color\":\"gray\",\"text\":\"When resonating with Dialga,\"}",
+        "{\"color\":\"gray\",\"text\":\"it unshackles its primal instincts\"}"
+      ]
+    }
+  }
+}

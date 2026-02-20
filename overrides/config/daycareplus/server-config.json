@@ -1,0 +1,33 @@
+{
+  "egg_production": {
+    "ticks_per_egg_attempt": 12000,
+    "success_rate_per_egg_attempt": 0.75,
+    "pasture_inventory_size": 128,
+    "max_pastures_per_player": 3,
+    "show_shiny_chance": true,
+    "allow_hoppers": true,
+    "apply_marks": false
+  },
+  "competitive_mode": {
+    "use_competitive_mode": false,
+    "allow_breeding_without_fertility": false,
+    "consume_held_items": true,
+    "eggs_inherit_fertility": true,
+    "max_fertility": 8
+  },
+  "shiny_chance": {
+    "use_event_trigger": true,
+    "standard_multiplier": 1.0,
+    "masuda_multiplier": 2.0,
+    "crystal_multiplier": 1.0,
+    "shiny_booster_rate": 0.05
+  },
+  "breeding_rules": {
+    "inherit_moves_from_both_parents": true,
+    "ticks_per_egg_cycle": 200,
+    "show_egg_tooltip": true
+  },
+  "compatibility_features": {
+    "size_variation": true
+  }
+}
