@@ -1,0 +1,9 @@
+{
+  "pokemon": ["greninja"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "atmxmsd:water_shuriken",
+      "aspects": ["cosmetic_item-water_shuriken"]
+    }
+  ]
+}

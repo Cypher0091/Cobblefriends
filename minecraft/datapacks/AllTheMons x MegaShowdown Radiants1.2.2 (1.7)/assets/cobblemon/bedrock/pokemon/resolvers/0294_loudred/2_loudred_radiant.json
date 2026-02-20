@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:loudred",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0294_loudred/loudred_radiant.png"
+    }
+  ]
+}

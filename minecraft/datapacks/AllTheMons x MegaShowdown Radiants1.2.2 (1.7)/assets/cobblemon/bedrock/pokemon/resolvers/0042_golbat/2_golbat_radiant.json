@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:golbat",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0042_golbat/golbat_radiant.png"
+    }
+  ]
+}

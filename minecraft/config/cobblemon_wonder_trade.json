@@ -1,0 +1,9 @@
+{
+  "tradeCooldownMinutes": 180,
+  "levelMatching": false,
+  "levelMatchRange": 10,
+  "blacklistedSpecies": [],
+  "blockLegendaries": false,
+  "blockShinies": false,
+  "minimumLevel": 1
+}

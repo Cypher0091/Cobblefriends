@@ -1,0 +1,20 @@
+{
+ "species": "cobblemon:salangster",
+ "order": 2,
+ "variations": [
+   {
+     "aspects": [
+       "shiny", "radiant-radiant"
+     ],
+     "texture": "cobblemon:textures/pokemon/salangster/salangster_radiant.png",
+	 "layers": [
+        {
+              "name": "emissive",
+              "emissive": true,
+              "texture": "cobblemon:textures/pokemon/salangster/salangster_emissive.png",
+              "translucent": true
+        }
+      ]
+   }
+ ]
+}

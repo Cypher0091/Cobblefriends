@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:lapras",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": ["shiny", "male", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0131_lapras/lapras_male_radiant.png"
+    }
+  ]
+}

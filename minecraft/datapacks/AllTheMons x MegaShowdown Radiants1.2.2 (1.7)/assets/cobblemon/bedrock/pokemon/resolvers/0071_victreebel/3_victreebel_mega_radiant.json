@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:victreebel",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": ["shiny", "mega", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0071_victreebel/victreebel_mega_radiant.png"
+    }
+  ]
+}

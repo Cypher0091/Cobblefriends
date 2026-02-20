@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "supplementaries:block/way_signs/template",
+	"textures": {
+		"particle": "supplementaries:block/way_signs/arts_and_crafts/way_sign_cork",
+		"sign": "supplementaries:block/way_signs/arts_and_crafts/way_sign_cork"
+	}
+}

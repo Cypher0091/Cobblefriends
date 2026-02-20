@@ -1,0 +1,14 @@
+{
+    "pages": [
+        {
+            "id": "defeat",
+            "speaker": "npc",
+            "lines": [
+                "§c§lDÉFAITE§r",
+                "§7Votre parcours dans la tour s'arrête la.",
+                "§7Bonne chance pour la prochaine fois !"
+            ],
+            "input": "q.dialogue.close();"
+        }
+    ]
+}

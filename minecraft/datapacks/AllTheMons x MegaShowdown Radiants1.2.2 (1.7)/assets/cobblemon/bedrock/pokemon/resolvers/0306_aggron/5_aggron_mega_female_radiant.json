@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:aggron",
+  "order": 5,
+  "variations": [
+    {
+      "aspects": ["shiny", "female", "mega", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0306_aggron/aggron_mega_female_radiant.png"
+    }
+  ]
+}

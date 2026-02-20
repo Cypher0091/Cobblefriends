@@ -1,0 +1,21 @@
+{
+  "species": "cobblemon:blastoise",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": [
+        "gmax",
+        "shiny", 
+        "radiant-radiant"
+      ],
+      "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_gigantamax_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_gigantamax_emissive.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

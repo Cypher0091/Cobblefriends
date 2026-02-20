@@ -1,0 +1,7 @@
+{
+  "partnerNpcName": "Professor",
+  "cardGraderNpcName": "Hatsune Miku",
+  "gradingCurrencyCost": 10000,
+  "gradingTimeMillis": 2700000,
+  "safariCurrencyCost": 10000
+}

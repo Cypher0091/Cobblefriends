@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:cetitan",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0975_cetitan/cetitan_radiant.png"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " c ",
+    "brb",
+    " i "
+  ],
+  "key": {
+    "c": {
+      "item": "cobblemon:galarica_cuff"
+    },
+    "r": {
+      "item": "mega_showdown:slowbronite"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    },
+    "i": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "id": "minecraft:trial_key",
+    "count": 1,
+    "components": {
+      "mega_showdown:registry_type_component": "mega",
+      "mega_showdown:registry_location_component": "atmxmsd:slowbrogonite",
+      "minecraft:custom_model_data": 260621,
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Slowbrogonite\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"text\":\"Form Changes\", \"color\":\"blue\", \"italic\":false}",
+        "{\"color\":\"gray\",\"text\":\"Allows Galarian Slowbro to Mega\"}",
+		    "{\"color\":\"gray\",\"text\":\"Evolve into Galarian Mega Slowbro\"}"
+      ]
+    }
+  }
+}

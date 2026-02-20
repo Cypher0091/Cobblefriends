@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:porygonz",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0474_porygonz/porygon-z_radiant.png"
+    }
+  ]
+}

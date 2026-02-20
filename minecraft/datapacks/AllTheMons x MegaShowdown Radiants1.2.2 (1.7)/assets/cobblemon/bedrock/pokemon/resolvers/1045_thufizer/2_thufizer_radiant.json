@@ -1,0 +1,12 @@
+{
+  "species": "cobblemon:thufizer",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": [
+        "shiny", "radiant-radiant"
+      ],
+      "texture": "cobblemon:textures/pokemon/1045_thufizer/thufizer_radiant.png"
+    }
+  ]
+}

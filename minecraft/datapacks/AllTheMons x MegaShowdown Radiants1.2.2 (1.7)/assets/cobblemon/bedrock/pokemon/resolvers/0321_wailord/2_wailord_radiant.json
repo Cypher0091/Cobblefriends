@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:wailord",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0321_wailord/wailord_radiant.png"
+    }
+  ]
+}

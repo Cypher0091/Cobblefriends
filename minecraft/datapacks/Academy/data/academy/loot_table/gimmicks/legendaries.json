@@ -1,0 +1,51 @@
+{
+  "type": "loot_table",
+    "pools": [
+      {
+        "bonus_rolls": 0.0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "legendarymonuments:proof_of_conquest_m",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "legendarymonuments:proof_of_conquest_a",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "legendarymonuments:proof_of_conquest_u",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "legendarymonuments:dyna_apple",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "legendarymonuments:old_sea_map",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "legendarymonuments:liberty_pass",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "legendarymonuments:tuft_of_mew_hair",
+            "weight": 1
+          },
+          {
+            "type": "minecraft:item",
+            "name": "legendarymonuments:celestica_flute",
+            "weight": 1
+          }
+        ],
+        "rolls": 1.0
+      }
+    ]
+  }

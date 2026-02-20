@@ -1,0 +1,22 @@
+{
+  "key": {
+    "A": {
+      "ingredient": {
+        "tag": "minecraft:wooden_slabs"
+      },
+      "block_type": "minecraft:wood_type",
+      "from": "minecraft:oak",
+      "to": "arts_and_crafts:cork",
+      "fabric:type": "moonlight:block_type_swap"
+    }
+  },
+  "pattern": [
+    "AAA"
+  ],
+  "result": {
+    "id": "suppsquared:arts_and_crafts/item_shelf_cork",
+    "count": 2
+  },
+  "category": "misc",
+  "type": "minecraft:crafting_shaped"
+}

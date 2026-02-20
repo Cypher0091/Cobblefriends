@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:aggron",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0306_aggron/aggron_radiant.png"
+    }
+  ]
+}

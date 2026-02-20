@@ -1,0 +1,86 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/trial_key"
+  },
+  "overrides": [
+    {
+      "model": "atmxmsd:item/costume_box_incineroar",
+      "predicate": {
+        "custom_model_data": 260607
+	    }
+    },
+	  {
+      "model": "atmxmsd:item/costume_box_lucario",
+      "predicate": {
+        "custom_model_data": 260608
+      }
+    },
+  	{
+      "model": "atmxmsd:item/red_scarf",
+      "predicate": {
+        "custom_model_data": 260609
+      }
+    },
+    {
+      "model": "atmxmsd:item/water_shuriken",
+      "predicate": {
+        "custom_model_data": 260611
+      }
+    },
+    {
+      "model": "atmxmsd:item/pledge_fragment",
+      "predicate": {
+        "custom_model_data": 260612
+      }
+    },
+    {
+      "model": "atmxmsd:item/shadow_energy",
+      "predicate": {
+        "custom_model_data": 260613
+      }
+    },
+    {
+      "model": "atmxmsd:item/binding_armor",
+      "predicate": {
+        "custom_model_data": 260614
+      }
+    },
+    {
+      "model": "atmxmsd:item/shadow_mewtwonite_x",
+      "predicate": {
+        "custom_model_data": 260615
+      }
+    },
+    {
+      "model": "atmxmsd:item/ancient_light_ball",
+      "predicate": {
+        "custom_model_data": 260617
+      }
+    },
+    {
+      "model": "atmxmsd:item/timegear",
+      "predicate": {
+        "custom_model_data": 260618
+      }
+    },
+    {
+      "model": "atmxmsd:item/victinite",
+      "predicate": {
+        "custom_model_data": 260619
+      }
+    },
+    {
+      "model": "atmxmsd:item/corrupted_wish",
+      "predicate": {
+        "custom_model_data": 260620
+      }
+    },
+    {
+      "model": "atmxmsd:item/slowbrogonite",
+      "predicate": {
+        "custom_model_data": 260621
+      }
+    }
+  ]
+}

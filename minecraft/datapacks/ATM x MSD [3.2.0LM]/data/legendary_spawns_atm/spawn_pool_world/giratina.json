@@ -1,0 +1,29 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [],
+  "neededUninstalledMods": ["legendarymonuments"],
+  "spawns": [
+    {
+      "id": "giratina-1T",
+      "pokemon": "giratina min_perfect_ivs=3",
+      "presets": [
+        "natural"
+      ],
+      "type": "pokemon",
+      "spawnablePositionType": "grounded",
+      "bucket": "ultra-rare",
+      "level": "70",
+      "weight": 0.05,
+      "condition": {
+        "biomes": [
+          "#cobblemon:is_end"
+        ]
+       },
+      "anticondition": {
+        "dimensions": [
+            "safari:safari"
+        ]
+      }
+    }
+  ]
+}

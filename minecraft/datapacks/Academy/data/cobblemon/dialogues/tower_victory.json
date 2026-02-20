@@ -1,0 +1,13 @@
+{
+    "pages": [
+        {
+            "id": "victory",
+            "speaker": "npc",
+            "lines": [
+                "§a§l★ VICTOIRE! ★§r",
+                "§7Arène terminée !"
+            ],
+            "input": "q.dialogue.close();"
+        }
+    ]
+}

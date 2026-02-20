@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:cresselia",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0488_cresselia/cresselia_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0488_cresselia/cresselia_emissive_radiant.png",
+          "emissive": true
+        }
+      ]	  
+    }
+  ]
+}

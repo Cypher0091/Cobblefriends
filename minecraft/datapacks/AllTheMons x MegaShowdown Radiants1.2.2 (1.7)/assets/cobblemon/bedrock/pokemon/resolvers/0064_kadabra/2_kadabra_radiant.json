@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:kadabra",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0064_kadabra/kadabra_radiant.png"
+    }
+  ]
+}

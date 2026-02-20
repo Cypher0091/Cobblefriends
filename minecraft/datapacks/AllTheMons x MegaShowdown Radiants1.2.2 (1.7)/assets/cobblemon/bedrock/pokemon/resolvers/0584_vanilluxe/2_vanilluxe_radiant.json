@@ -1,0 +1,12 @@
+{
+ "species": "cobblemon:vanilluxe",
+ "order": 2,
+ "variations": [
+   {
+     "aspects": [
+       "shiny", "radiant-radiant"
+     ],
+     "texture": "cobblemon:textures/pokemon/0584_vanilluxe/vanilluxe_radiant.png"
+   }
+ ]
+}

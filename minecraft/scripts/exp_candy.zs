@@ -1,0 +1,4 @@
+craftingTable.addShapeless("exp_candy_s_from_xs", <item:cobblemon:exp_candy_s>, [<item:cobblemon:exp_candy_xs>, <item:cobblemon:exp_candy_xs>, <item:cobblemon:exp_candy_xs>, <item:cobblemon:exp_candy_xs>, <item:cobblemon:exp_candy_xs>, <item:cobblemon:exp_candy_xs>]);
+craftingTable.addShapeless("exp_candy_m_from_s", <item:cobblemon:exp_candy_m>, [<item:cobblemon:exp_candy_s>, <item:cobblemon:exp_candy_s>, <item:cobblemon:exp_candy_s>]);
+craftingTable.addShapeless("exp_candy_l_from_m", <item:cobblemon:exp_candy_l>, [<item:cobblemon:exp_candy_m>, <item:cobblemon:exp_candy_m>, <item:cobblemon:exp_candy_m>]);
+craftingTable.addShapeless("exp_candy_xl_from_l", <item:cobblemon:exp_candy_xl>, [<item:cobblemon:exp_candy_l>, <item:cobblemon:exp_candy_l>, <item:cobblemon:exp_candy_l>]);

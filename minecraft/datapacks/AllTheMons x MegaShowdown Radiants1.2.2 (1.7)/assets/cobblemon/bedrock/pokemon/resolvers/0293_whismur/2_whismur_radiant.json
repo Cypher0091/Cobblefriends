@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:whismur",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0293_whismur/whismur_radiant.png"
+    }
+  ]
+}

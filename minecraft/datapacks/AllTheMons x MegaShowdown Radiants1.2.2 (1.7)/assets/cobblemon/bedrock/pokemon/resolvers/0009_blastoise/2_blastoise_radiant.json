@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:blastoise",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0009_blastoise/blastoise_radiant.png"
+    }
+  ]
+}

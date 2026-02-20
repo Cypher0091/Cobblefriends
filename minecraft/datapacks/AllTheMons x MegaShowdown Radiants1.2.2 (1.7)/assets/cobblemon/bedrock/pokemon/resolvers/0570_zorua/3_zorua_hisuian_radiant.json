@@ -1,0 +1,12 @@
+{
+ "species": "cobblemon:zorua",
+ "order": 3,
+ "variations": [
+   {
+     "aspects": [
+       "hisuian", "shiny", "radiant-radiant"
+     ],
+     "texture": "cobblemon:textures/pokemon/0570_zorua/zorua_hisuian_radiant.png"
+   }
+ ]
+}

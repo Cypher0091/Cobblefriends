@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:alakazam",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": ["shiny", "mega", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0065_alakazam/alakazam_mega_radiant.png"
+    }
+  ]
+}

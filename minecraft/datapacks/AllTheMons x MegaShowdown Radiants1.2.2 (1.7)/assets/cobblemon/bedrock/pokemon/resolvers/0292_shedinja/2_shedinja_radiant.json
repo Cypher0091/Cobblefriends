@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:shedinja",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0292_shedinja/shedinja_radiant.png"
+    }
+  ]
+}

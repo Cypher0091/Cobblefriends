@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:treecko",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": ["shiny", "female", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0252_treecko/treecko_female_radiant.png"
+    }
+  ]
+}

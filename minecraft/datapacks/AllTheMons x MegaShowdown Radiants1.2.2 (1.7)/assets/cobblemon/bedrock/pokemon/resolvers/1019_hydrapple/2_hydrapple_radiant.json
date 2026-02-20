@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:hydrapple",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/1019_hydrapple/hydrapple_radiant.png"
+    }
+  ]
+}
