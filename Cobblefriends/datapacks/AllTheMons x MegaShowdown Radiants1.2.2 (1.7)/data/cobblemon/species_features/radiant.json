@@ -1,0 +1,16 @@
+{
+  "type": "choice",
+  "keys": [
+    "radiant"
+  ],
+  "default": "random",
+  "choices": [
+    "regular",
+    "regular",
+    "regular",
+    "regular",
+    "radiant"
+  ],
+  "isAspect": true,
+  "aspectFormat": "radiant-{{choice}}"
+}

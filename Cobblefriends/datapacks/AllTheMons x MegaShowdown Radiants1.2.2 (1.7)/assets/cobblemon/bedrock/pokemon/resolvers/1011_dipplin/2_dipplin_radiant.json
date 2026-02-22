@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:dipplin",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/1011_dipplin/dipplin_radiant.png"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+ "species": "cobblemon:greatestbull",
+ "order": 2,
+ "variations": [
+  {
+     "aspects": [
+       "shiny", "radiant-radiant"],
+     "texture": "cobblemon:textures/pokemon/1214_greatestbull/greatestbull_radiant.png"
+ 
+ }
+  ]
+}
+

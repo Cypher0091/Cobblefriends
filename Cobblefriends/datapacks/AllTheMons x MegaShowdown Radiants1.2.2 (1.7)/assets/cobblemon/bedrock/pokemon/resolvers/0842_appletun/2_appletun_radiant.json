@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:appletun",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0842_appletun/appletun_radiant.png"
+    }
+  ]
+}

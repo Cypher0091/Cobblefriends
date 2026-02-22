@@ -1,5 +1,0 @@
-[enhancedcelestials]
-	#Most Enhanced Celestials configuration for Cobblemon Integrations must be done via Datapack.
-	#
-	#Should Lunar Event reward modifiers apply in PvP battles?
-	applyInPvP = false

@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:milotic",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0350_milotic/milotic_radiant.png"
+    }
+  ]
+}

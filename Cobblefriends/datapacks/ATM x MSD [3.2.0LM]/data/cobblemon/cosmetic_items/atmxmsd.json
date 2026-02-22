@@ -1,0 +1,9 @@
+{
+  "pokemon": ["pichu", "pikachu", "raichu", "greninja", "riolu", "lucario", "keldeo"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "minecraft:trial_key",
+      "aspects": ["cosmetic_item-atmxmsd"]
+    }
+  ]
+}

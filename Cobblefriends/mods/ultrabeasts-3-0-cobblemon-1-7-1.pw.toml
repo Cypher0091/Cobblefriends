@@ -1,0 +1,8 @@
+name = "ultrabeasts-3-0-cobblemon-1-7-1"
+filename = "UltraBeasts-3.0+Cobblemon-1.7.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/UltraBeasts-3.0%2BCobblemon-1.7.1.jar"
+hash-format = "sha256"
+hash = "93cad11d56e1ce49f6a9f1d3f1582a61eb7f0a7b7abdd6d3670fe0d09f509226"

@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:aggron",
+  "order": 4,
+  "variations": [
+    {
+      "aspects": ["shiny", "mega", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0306_aggron/aggron_mega_radiant.png"
+    }
+  ]
+}

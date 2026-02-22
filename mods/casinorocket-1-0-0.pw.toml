@@ -1,8 +1,0 @@
-name = "casinorocket-1-0-0"
-filename = "casinorocket-1.0.0.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/casinorocket-1.0.0.jar"
-hash-format = "sha256"
-hash = "fc13b13c02c2fa46d9f8cb18d5d56932319c8de29f057d46f698b2e97fad79da"

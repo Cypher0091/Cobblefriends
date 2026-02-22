@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:slowpoke",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0079_slowpoke/slowpoke_radiant.png"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:wailmer",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0320_wailmer/wailmer_radiant.png"
+    }
+  ]
+}

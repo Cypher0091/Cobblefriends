@@ -1,1 +1,0 @@
-bedrockparticle cobblemon:radiantsparkle @e[nbt={Pokemon:{Features:[{"radiant": "radiant"}],Shiny:1b}}]

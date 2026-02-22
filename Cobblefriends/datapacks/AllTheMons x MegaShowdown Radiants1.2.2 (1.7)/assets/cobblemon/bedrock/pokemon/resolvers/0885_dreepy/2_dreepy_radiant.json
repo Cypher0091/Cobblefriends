@@ -1,0 +1,12 @@
+{
+ "species": "cobblemon:dreepy",
+ "order": 2,
+ "variations": [
+   {
+     "aspects": [
+       "shiny", "radiant-radiant"
+     ],
+     "texture": "cobblemon:textures/pokemon/0885_dreepy/dreepy_radiant.png"
+   }
+ ]
+}

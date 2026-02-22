@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:grovyle",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": ["shiny", "female", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0253_grovyle/grovyle_female_radiant.png"
+    }
+  ]
+}

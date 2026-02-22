@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:diglett",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0050_diglett/diglett_radiant.png"
+    }
+  ]
+}

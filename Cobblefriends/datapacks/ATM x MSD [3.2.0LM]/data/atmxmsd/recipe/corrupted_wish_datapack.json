@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":  [
+    {
+      "item": "mega_showdown:red_orb"
+    },
+    {
+      "item": "cobblemon:poison_gem"
+    }
+  ],
+  "result": {
+    "id": "minecraft:trial_key",
+    "count": 1,
+    "components": {
+      "mega_showdown:registry_type_component": "form_change_interact",
+      "mega_showdown:registry_location_component": "atmxmsd:corrupted_wish",
+      "minecraft:custom_model_data": 260620,
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Corrupted Wish\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"text\":\"Form Changes\", \"color\":\"blue\", \"italic\":false}",
+        "{\"color\":\"gray\",\"text\":\"A wish tag granted by Jirachi, tainted by the evil\"}",
+        "{\"color\":\"gray\",\"text\":\"intentions of a blind human who sought to summon Groudon,\"}",
+        "{\"color\":\"gray\",\"text\":\"twisted the mighty creature into a being of pure darkness\"}"
+      ]
+    }
+  }
+}

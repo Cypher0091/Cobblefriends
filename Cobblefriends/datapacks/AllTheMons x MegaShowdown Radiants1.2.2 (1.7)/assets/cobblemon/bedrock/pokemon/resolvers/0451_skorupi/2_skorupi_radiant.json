@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:skorupi",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0451_skorupi/skorupi_radiant.png"
+    }
+  ]
+}

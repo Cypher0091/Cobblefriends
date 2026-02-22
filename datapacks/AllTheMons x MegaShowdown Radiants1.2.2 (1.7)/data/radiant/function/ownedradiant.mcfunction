@@ -1,5 +1,0 @@
-execute at @e[nbt={Pokemon:{Features:[{"radiant": "radiant"}],Shiny:1b,PokemonOriginalTrainerType: "PLAYER"}},tag=!radiantEventDone] run playsound cobblemon:particle.prismaticsparkle master @a[distance=..15] ~ ~ ~ 0. 0
-execute as @e[nbt={Pokemon:{Features:[{"radiant": "radiant"}],Shiny:1b,PokemonOriginalTrainerType: "PLAYER"}},tag=!radiantEventDone] run bedrockparticle cobblemon:radiantsparklesplash @e[nbt={Pokemon:{Features:[{"radiant": "radiant"}],Shiny:1b,PokemonOriginalTrainerType: "PLAYER"}},tag=!radiantEventDone]
-execute as @e[nbt={Pokemon:{Features:[{"radiant": "radiant"}],Shiny:1b,PokemonOriginalTrainerType: "PLAYER"}},tag=!radiantEventDone] run bedrockparticle cobblemon:radiantsparkle @e[nbt={Pokemon:{Features:[{"radiant": "radiant"}],Shiny:1b,PokemonOriginalTrainerType: "PLAYER"}},tag=!radiantEventDone]
-scoreboard players set @e[type=cobblemon:pokemon,scores={radiantAge=30}] radiantAge 100
-tag @e[scores={radiantAge=100},nbt={Pokemon:{Features:[{"radiant": "true"}],Shiny:1b,PokemonOriginalTrainerType: "PLAYER"}}] add radiantEventDone

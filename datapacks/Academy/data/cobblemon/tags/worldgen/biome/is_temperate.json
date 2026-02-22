@@ -1,7 +1,0 @@
-{
-  "replace": true,
-  "values": [
-    "#cobblemon:is_forest",
-	  "#cobblemon:is_plains"
-  ]
-}

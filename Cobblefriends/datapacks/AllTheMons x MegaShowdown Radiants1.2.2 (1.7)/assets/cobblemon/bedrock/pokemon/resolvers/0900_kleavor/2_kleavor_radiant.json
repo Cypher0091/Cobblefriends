@@ -1,0 +1,12 @@
+{
+ "species": "cobblemon:kleavor",
+ "order": 2,
+ "variations": [
+   {
+     "aspects": [
+       "shiny", "radiant-radiant"
+     ],
+     "texture": "cobblemon:textures/pokemon/0900_kleavor/kleavor_radiant.png"
+   }
+ ]
+}

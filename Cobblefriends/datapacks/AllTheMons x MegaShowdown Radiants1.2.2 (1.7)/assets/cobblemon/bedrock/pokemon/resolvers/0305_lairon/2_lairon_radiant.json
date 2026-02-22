@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:lairon",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0305_lairon/lairon_radiant.png"
+    }
+  ]
+}

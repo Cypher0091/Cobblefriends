@@ -1,0 +1,13 @@
+name = "CRD Converters"
+filename = "crd_converters-fabric-1.1.0+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/DQcVN2GF/versions/wkdNGSus/crd_converters-fabric-1.1.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "369018126b153ffdc0d0774b8ddda70c473bf13ca7fe607411ec365a0380c568566c0d36addee780ce426be244198955dd4bffa21065758fa1a31da9b6ad99ad"
+
+[update]
+[update.modrinth]
+mod-id = "DQcVN2GF"
+version = "wkdNGSus"

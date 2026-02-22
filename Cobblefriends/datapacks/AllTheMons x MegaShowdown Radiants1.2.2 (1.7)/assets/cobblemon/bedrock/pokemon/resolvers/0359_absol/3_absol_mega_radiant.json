@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:absol",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": ["shiny", "mega", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0359_absol/absol_mega_radiant.png"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ddd",
+    "dgy",
+    "yyy"
+  ],
+  "key": {
+    "d": {
+      "item": "mega_showdown:dark_tera_shard"
+    },
+    "g": {
+      "item": "cobblemon:dark_gem"
+    },
+    "y": {
+      "item": "cobblemon:black_apricorn"
+    }
+  },
+  "result": {
+    "id": "minecraft:trial_key",
+    "count": 1,
+    "components": {
+      "mega_showdown:registry_type_component": "form_change_interact",
+      "mega_showdown:registry_location_component": "atmxmsd:shadow_energy",
+      "minecraft:custom_model_data": 260613,
+      "minecraft:item_name": "{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\": \"Shadow Energy\"}],\"italic\":false,\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"text\":\"Form Changes\", \"color\":\"blue\", \"italic\":false}",
+        "{\"color\":\"gray\",\"text\":\"Corrupts Pokémon with its strange Aura\"}"
+      ]
+    }
+  }
+}

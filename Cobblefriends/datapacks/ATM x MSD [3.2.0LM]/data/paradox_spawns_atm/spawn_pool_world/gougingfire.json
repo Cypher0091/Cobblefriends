@@ -1,0 +1,39 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "gougingfire-1T",
+            "pokemon": "gougingfire min_perfect_ivs=3",
+            "presets": [
+                "natural",
+                "wild"
+            ],
+            "type": "pokemon",
+            "spawnablePositionType": "grounded",
+            "bucket": "rare",
+            "level": "60-80",
+            "weight": 0.5,
+            "weightMultipliers": [
+                {
+                    "multiplier": 1.5,
+                    "condition": {
+                        "isRaining": true
+                    }
+                }
+            ],
+            "condition": {
+                "timeRange": "day",
+                "biomes": [
+                    "#cobblemon:is_plains"
+                ]
+       },
+      "anticondition": {
+        "dimensions": [
+            "safari:safari"
+        ]
+      }
+    }
+  ]
+}

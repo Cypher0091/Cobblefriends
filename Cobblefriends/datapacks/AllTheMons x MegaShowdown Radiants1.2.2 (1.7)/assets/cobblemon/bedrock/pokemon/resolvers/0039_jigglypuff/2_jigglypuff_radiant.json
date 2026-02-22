@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:jigglypuff",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0039_jigglypuff/jigglypuff_radiant.png"
+    }
+  ]
+}

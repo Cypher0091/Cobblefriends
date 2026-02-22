@@ -1,0 +1,11 @@
+{
+    "target": "cobblemon:pichu",
+     "forms": [
+      {
+        "name": "Spiky-Eared",
+        "aspects": ["cosmetic_item-atmxmsd"],
+        "pokedex": ["cobblemon.species.pichu-spikyeared.desc"],
+        "evolutions": []
+      }
+    ]
+  }

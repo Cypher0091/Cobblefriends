@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:swampert",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": ["shiny", "mega", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0260_swampert/swampert_mega_radiant.png"
+    }
+  ]
+}

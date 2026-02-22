@@ -1,0 +1,16 @@
+{
+  "showdown_id": "shadowmewtwonitex",
+  "pokemons": ["Mewtwo"],
+  "aspect_conditions": {
+    "apply": {
+      "aspects": ["mega_evolution=mega_x"],
+      "aspect": {
+          "required_aspects": [["shadows"]],
+          "blacklist_aspects": [["armored"]]
+        }
+     },
+    "revert": {
+      "aspects": ["mega_evolution=none"]
+    }
+  }
+}

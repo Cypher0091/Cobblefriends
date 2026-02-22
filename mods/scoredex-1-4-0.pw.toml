@@ -1,8 +1,0 @@
-name = "scoredex-1-4-0"
-filename = "scoredex-1.4.0.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.0/scoredex-1.4.0.jar"
-hash-format = "sha256"
-hash = "5b9a0c4f0f681c8a35d7802f0b4f4d10b01c191e0905d5b4b41b98f88fc3e0d0"

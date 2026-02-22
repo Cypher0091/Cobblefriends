@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:feebas",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0349_feebas/feebas_radiant.png"
+    }
+  ]
+}

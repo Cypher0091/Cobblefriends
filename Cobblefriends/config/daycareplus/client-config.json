@@ -1,0 +1,7 @@
+{
+  "show_egg_groups_in_summary": true,
+  "show_egg_groups_in_pc": true,
+  "show_egg_group_tooltip_button": false,
+  "pc_egg_group_y-offset": 68,
+  "show_ot_in_pc": true
+}

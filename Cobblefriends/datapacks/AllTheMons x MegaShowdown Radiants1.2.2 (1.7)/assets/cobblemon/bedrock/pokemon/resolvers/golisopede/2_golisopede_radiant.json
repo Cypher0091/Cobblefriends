@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:golisopede",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/golisopede/golisopede_radiant.png"
+    }
+  ]
+}

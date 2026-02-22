@@ -1,0 +1,12 @@
+{
+ "species": "cobblemon:drakloak",
+ "order": 2,
+ "variations": [
+   {
+     "aspects": [
+       "shiny", "radiant-radiant"
+     ],
+     "texture": "cobblemon:textures/pokemon/0886_drakloak/drakloak_radiant.png"
+   }
+ ]
+}

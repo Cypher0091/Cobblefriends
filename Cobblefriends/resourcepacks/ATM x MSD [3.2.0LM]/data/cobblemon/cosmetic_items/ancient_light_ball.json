@@ -1,0 +1,9 @@
+{
+  "pokemon": ["pichu", "pikachu", "raichu"],
+  "cosmeticItems": [
+    {
+      "consumedItem": "atmxmsd:ancient_light_ball",
+      "aspects": ["cosmetic_item-ancient_light_ball"]
+    }
+  ]
+}

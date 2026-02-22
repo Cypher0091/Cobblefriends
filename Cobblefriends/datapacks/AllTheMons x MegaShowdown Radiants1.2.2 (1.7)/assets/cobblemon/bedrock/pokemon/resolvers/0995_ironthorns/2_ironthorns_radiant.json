@@ -1,0 +1,19 @@
+{
+  "species": "cobblemon:ironthorns",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": [
+        "shiny", "radiant-radiant"
+      ],
+      "texture": "cobblemon:textures/pokemon/0995_ironthorns/ironthorns_radiant.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0995_ironthorns/ironthorns_emissive_radiant.png"
+    }
+      ]
+    }
+  ]
+}

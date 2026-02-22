@@ -1,0 +1,11 @@
+{
+  "species": "cobblemon:blaziken",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["shiny", "radiant-radiant"],
+      "texture": "cobblemon:textures/pokemon/0257_blaziken/blaziken_radiant.png"
+}
+]
+}
+

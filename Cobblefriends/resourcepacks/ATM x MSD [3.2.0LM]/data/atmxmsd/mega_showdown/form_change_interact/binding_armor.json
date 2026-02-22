@@ -1,0 +1,24 @@
+{
+  "pokemons": ["Mewtwo"],
+  "consume": 0,
+  "effect": "mega_showdown:darmanitan_galar_zen",
+  "aspect_conditions": {
+    "apply": {
+      "aspects": ["armored=true"],
+      "aspect": {
+        "blacklist_aspects": [
+          ["shadows"], 
+          ["armored"]
+        ]
+      }
+    },
+    "revert": {
+      "aspects": ["armored=false"],
+      "aspect": {
+        "required_aspects": [
+          ["armored"]
+        ]
+      }
+    }
+  }
+}
