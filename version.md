@@ -1,5 +1,5 @@
 ## Version 1.0.1
-### BattleFactory
+##### BattleFactory
 
 - Sécurité au lancement, obligation de vider son équipe
 - Ajout de la prise en charge des terratypes
