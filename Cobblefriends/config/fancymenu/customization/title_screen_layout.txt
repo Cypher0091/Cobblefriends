@@ -14,7 +14,7 @@ layout-meta {
 }
 
 menu_background {
-  image_path = [source:local]/config/fancymenu/assets/menuani2.gif
+  image_path = [source:local]/config/fancymenu/assets/menuani.gif
   slide = false
   repeat_texture = false
   parallax = false

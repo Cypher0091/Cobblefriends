@@ -1,0 +1,8 @@
+name = "cobblemon-battlefactory-0.1.1"
+filename = "cobblemon-battlefactory-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Cypher0091/Cobblefriends/releases/download/v1.0.1/cobblemon-battlefactory-0.1.1.jar"
+hash-format = "sha256"
+hash = "f8584d34421d824fea663f12a76ae5daf51459ff47f3607eacbcd8c78bfab238"

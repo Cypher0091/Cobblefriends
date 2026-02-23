@@ -2,83 +2,83 @@
   "options": [
     {
       "weight": 10,
-      "showdown": "garchomp ability=roughskin held_item=cobblemon:lum_berry nature=jolly moves=earthquake,dragonclaw,rockslide,swordsdance evs=252atk,252spe,4hp ivs=31hp,31atk,31def,31spd,31spe,31spa"
+      "showdown": "alomomola ability=regenerator held_item=cobblemon:heavy_duty_boots nature=relaxed teratype=dragon moves=wish,protect,scald,flipturn evs=4hp,252def,252spd ivs=31hp,31atk,31def,31spd,31spe,31spa"
     },
     {
       "weight": 10,
-      "showdown": "dragonite ability=multiscale held_item=cobblemon:weakness_policy nature=adamant moves=dragondance,dragonclaw,firepunch,extremespeed evs=252atk,200hp,56spe ivs=31hp,31atk,31def,31spd,31spe,31spa"
+      "showdown": "ceruledge ability=flash_fire held_item=cobblemon:focus_sash nature=adamant teratype=ghost moves=swords_dance,poltergeist,bitterblade,shadowsneak evs=252atk,4spd,252spe ivs=31hp,31atk,31def,31spd,31spe,31spa"
     },
     {
       "weight": 10,
-      "showdown": "tyranitar ability=sandstream held_item=cobblemon:leftovers nature=adamant moves=crunch,stoneedge,earthquake,dragondance evs=252atk,180hp,76spe ivs=31hp,31atk,31def,31spd,31spe,31spa"
+      "showdown": "glimmora ability=toxic_debris held_item=cobblemon:red_card nature=timid teratype=ghost moves=stealthrock,powergem,mortalspin,earthpower evs=252spa,4spd,252spe ivs=31hp,31atk,31def,31spd,31spe,31spa"
     },
     {
       "weight": 10,
-      "showdown": "excadrill ability=moldbreaker held_item=cobblemon:life_orb nature=jolly moves=earthquake,ironhead,rockslide,rapidspin evs=252atk,252spe,4hp ivs=31hp,31atk,31def,31spd,31spe,31spa"
+      "showdown": "cinderace ability=blaze held_item=cobblemon:heavy_duty_boots nature=jolly teratype=fire moves=pyroball,uturn,willowisp,courtchange evs=224hp,32atk,252spe ivs=31hp,31atk,31def,31spd,31spe,31spa"
     },
     {
       "weight": 10,
-      "showdown": "scizor ability=technician held_item=cobblemon:metal_coat nature=adamant moves=bulletpunch,xscissor,swordsdance,roost evs=252atk,200hp,56def ivs=31hp,31atk,31def,31spd,31spe,31spa"
+      "showdown": "lokix ability=tinted_lens held_item=cobblemon:heavy_duty_boots nature=adamant teratype=bug moves=firstimpression,uturn,knockoff,suckerpunch evs=252atk,4spd,252spe ivs=31hp,31atk,31def,31spd,31spe,31spa"
     },
     {
       "weight": 10,
-      "showdown": "weavile ability=pressure held_item=cobblemon:life_orb nature=jolly moves=icepunch,nightslash,lowkick,iceshard evs=252atk,252spe,4hp ivs=31hp,31atk,31def,31spd,31spe,31spa"
+      "showdown": "rillaboom ability=grassy_surge held_item=cobblemon:terrain_extender nature=adamant teratype=grass moves=grassyglide,knockoff,uturn,lowkick evs=204hp,252atk,52spe ivs=31hp,31atk,31def,31spd,31spe,31spa"
     },
     {
       "weight": 10,
-      "showdown": "gardevoir ability=trace held_item=cobblemon:choice_scarf nature=timid moves=psychic,moonblast,thunderbolt,shadowball evs=252spa,252spe,4hp ivs=31hp,31spa,31def,31spd,31spe,31atk"
+      "showdown": "dondozo ability=unaware held_item=cobblemon:leftovers nature=impish teratype=ground moves=liquidation,rest,curse,earthquake evs=252hp,252def,4spd ivs=31hp,31atk,31def,31spd,31spe,31spa"
     },
     {
       "weight": 10,
-      "showdown": "togekiss ability=serenegrace held_item=cobblemon:leftovers nature=calm moves=airslash,dazzlinggleam,thunderwave,roost evs=252hp,200spd,56spa ivs=31hp,31spa,31def,31spd,31spe,31atk"
+      "showdown": "tyranitar ability=sand_stream held_item=cobblemon:lum_berry nature=adamant teratype=flying moves=dragondance,stoneedge,crunch,earthquake evs=252atk,4spd,252spe ivs=31hp,31atk,31def,31spd,31spe,31spa"
     },
     {
       "weight": 10,
-      "showdown": "rotom_wash ability=levitate held_item=cobblemon:sitrus_berry nature=bold moves=hydropump,voltswitch,willowisp,thunderbolt evs=252hp,200def,56spa ivs=31hp,31spa,31def,31spd,31spe,31atk"
+      "showdown": "hatterene ability=magic_bounce held_item=cobblemon:eject_button nature=bold teratype=steel moves=healingwish,psyshock,dazzlinggleam,nuzzle evs=248hp,116def,144spe ivs=31hp,31atk,31def,31spd,31spe,31spa"
     },
     {
       "weight": 10,
-      "showdown": "milotic ability=marvelscale held_item=cobblemon:leftovers nature=bold moves=surf,icebeam,recover,toxic evs=252hp,252def,4spd ivs=31hp,31def,31spd,31spa,31spe,31atk"
+      "showdown": "quaquaval ability=moxie held_item=cobblemon:leftovers nature=impish teratype=water moves=bulkup,aquastep,closecombat,roost evs=200hp,16atk,180def,112spe ivs=31hp,31atk,31def,31spd,31spe,31spa"
     },
     {
       "weight": 10,
-      "showdown": "magnezone ability=magnetpull held_item=cobblemon:choice_specs nature=modest moves=thunderbolt,flashcannon,voltswitch,triattack evs=252spa,180hp,76spe ivs=31hp,31spa,31def,31spd,31spe,31atk"
+      "showdown": "espeon ability=magic_bounce held_item=cobblemon:light_clay nature=timid teratype=psychic moves=reflect,lightscreen,psychic,dazzlinggleam evs=252hp,4spa,252spe ivs=31hp,0atk,31def,31spd,31spe,31spa"
     },
     {
       "weight": 10,
-      "showdown": "gliscor ability=poisonheal held_item=cobblemon:toxic_orb nature=impish moves=earthquake,roost,protect,swordsdance evs=252hp,184def,72spe ivs=31hp,31atk,31def,31spd,31spe,31spa"
+      "showdown": "scyther ability=technician held_item=cobblemon:eviolite nature=jolly teratype=grass moves=swordsdance,dualwingbeat,closecombat,trailblaze evs=252atk,4spd,252spe ivs=31hp,31atk,31def,31spd,31spe,31spa"
     },
     {
       "weight": 10,
-      "showdown": "lucario ability=innerfocus held_item=cobblemon:life_orb nature=jolly moves=closecombat,extremespeed,meteor_mash,swordsdance evs=252atk,252spe,4hp ivs=31hp,31atk,31def,31spd,31spe,31spa"
+      "showdown": "altaria ability=natural_cure held_item=cobblemon:heavy_duty_boots nature=impish teratype=fairy moves=bravebird,willowisp,roost,defog evs=252hp,200def,56spe ivs=31hp,31atk,31def,31spd,31spe,31spa"
     },
     {
       "weight": 10,
-      "showdown": "metagross ability=clearbody held_item=cobblemon:assault_vest nature=adamant moves=meteor_mash,zenheadbutt,earthquake,bulletpunch evs=252atk,200hp,56def ivs=31hp,31atk,31def,31spd,31spe,31spa"
+      "showdown": "copperajah ability=heavy_metal held_item=cobblemon:leftovers nature=careful teratype=dragon moves=heavyslam,stealthrock,whirlwind,knockoff evs=252hp,252spd,4spe ivs=31hp,31atk,31def,31spd,31spe,31spa"
     },
     {
       "weight": 10,
-      "showdown": "volcarona ability=flamebody held_item=cobblemon:heavy_duty_boots nature=timid moves=fierydance,bugbuzz,quiverdance,gigadrain evs=252spa,252spe,4hp ivs=31hp,31spa,31def,31spd,31spe,31atk"
+      "showdown": "flygon ability=levitate held_item=cobblemon:choice_band nature=jolly teratype=bug moves=earthquake,uturn,firstimpression,outrage evs=252atk,4spd,252spe ivs=31hp,31atk,31def,31spd,31spe,31spa"
     },
     {
       "weight": 10,
-      "showdown": "mimikyu ability=disguise held_item=cobblemon:life_orb nature=jolly moves=playrough,shadowclaw,shadowsneak,swordsdance evs=252atk,252spe,4hp ivs=31hp,31atk,31def,31spd,31spe,31spa"
+      "showdown": "pelipper ability=drizzle held_item=cobblemon:choice_specs nature=modest teratype=water moves=hurricane,surf,uturn,icebeam evs=252hp,4spd,252spa ivs=31hp,31atk,31def,31spd,31spe,31spa"
     },
     {
       "weight": 10,
-      "showdown": "hydreigon ability=levitate held_item=cobblemon:choice_scarf nature=timid moves=dracometeor,darkpulse,flamethrower,uturn evs=252spa,252spe,4hp ivs=31hp,31spa,31def,31spd,31spe,31atk"
+      "showdown": "gholdengo ability=good_as_gold held_item=cobblemon:air_balloon nature=timid teratype=fighting moves=makeitrain,shadowball,nastyplot,recover evs=252spa,4spd,252spe ivs=31hp,31atk,31def,31spd,31spe,31spa"
     },
     {
       "weight": 10,
-      "showdown": "ferrothorn ability=ironbarbs held_item=cobblemon:leftovers nature=relaxed moves=powerwhip,gyroball,leechseed,protect evs=252hp,200def,56spd ivs=31hp,31atk,31def,31spd,0spe,31spa"
+      "showdown": "corviknight ability=pressure held_item=cobblemon:leftovers nature=bold teratype=fighting moves=roost,irondefense,bodypress,uturn evs=248hp,140def,120spe ivs=31hp,31atk,31def,31spd,31spe,31spa"
     },
     {
       "weight": 10,
-      "showdown": "alakazam ability=magicguard held_item=cobblemon:focus_sash nature=timid moves=psychic,shadowball,focusblast,calmmind evs=252spa,252spe,4hp ivs=31hp,31spa,31def,31spd,31spe,31atk"
+      "showdown": "garganacl ability=purifying_salt held_item=cobblemon:leftovers nature=careful teratype=water moves=irondefense,bodypress,saltcure,recover evs=252hp,4def,252spd ivs=31hp,31atk,31def,31spd,31spe,31spa"
     },
     {
       "weight": 10,
-      "showdown": "blaziken ability=speedboost held_item=cobblemon:life_orb nature=adamant moves=flareblitz,closecombat,protect,swordsdance evs=252atk,252spe,4hp ivs=31hp,31atk,31def,31spd,31spe,31spa"
+      "showdown": "barraskewda ability=swift_swim held_item=cobblemon:choice_band nature=adamant teratype=water moves=liquidation,flipturn,closecombat,aquajet evs=4hp,252atk,252spe ivs=31hp,31atk,31def,31spd,31spe,31spa"
     }
   ]
 }
