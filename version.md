@@ -1,5 +1,9 @@
 ## Version 1.0.1
-##### BattleFactory
+### FancyMenu
+- Fix de l'OST qui revenez tous le temps
+- Fix des réglages du chat IG qui s'enlever
+
+### BattleFactory
 
 - Sécurité au lancement, obligation de vider son équipe
 - Ajout de la prise en charge des terratypes
