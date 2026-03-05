@@ -1,3 +1,12 @@
+## Version 1.0.2
+### CobbleFriends
+- Ajout du système de badge
+- Modification du spawn de Raid
+
+### ScoreDex
+- Ajout des badges dans le scoreboard
+- Suppression des raid T6 dans le scoreboard
+
 ## Version 1.0.1
 ### FancyMenu
 - Fix de l'OST qui revenez tous le temps
