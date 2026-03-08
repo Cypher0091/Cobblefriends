@@ -1,3 +1,9 @@
+## Version 1.0.3
+
+- Ajout des emotes
+- Ajout du mod Simple Copper Pipe
+- Suppression de config inutile
+
 ## Version 1.0.2
 ### CobbleFriends
 - Ajout du système de badge
