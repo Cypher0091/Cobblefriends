@@ -1,5 +1,7 @@
 ## Version 1.0.3
 
+- Ajout du Vendeur de clé d'arene PNJ
+- Modification mise en page Vendeur Cobblefriends
 - Ajout des emotes
 - Ajout du mod Simple Copper Pipe
 - Suppression de config inutile
