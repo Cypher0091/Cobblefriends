@@ -1,6 +1,8 @@
 ## Version 1.0.3
 
 - Ajout du Vendeur de clé d'arene PNJ
+- Jeton d'arene obtenable en récompence des arene PNJ
+- Mise en place du PNJ de Quete (Quetes à venir)
 - Modification mise en page Vendeur Cobblefriends
 - Ajout des emotes
 - Ajout du mod Simple Copper Pipe
