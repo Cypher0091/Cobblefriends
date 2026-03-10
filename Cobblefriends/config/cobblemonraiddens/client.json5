@@ -13,6 +13,8 @@
 	"show_beam_tier_six": true,
 	// Show Beacon Beam for Tier Seven Raids
 	"show_beam_tier_seven": true,
+	// Show Beacon Beam for Tier Eight Raids
+	"show_beam_tier_eight": true,
 	// Automatically accept raid join requests
 	"auto_accept_requests": false,
 	// Show raid logs during raids
